@@ -59,7 +59,6 @@ def replaceCities(population):
 
 def verifyCosts(matrix,initial,final):
 	
-	# costs: AB2, AC9, AD3, AE6, BC4, BD3, BE8, CD7, CE3, DE3
 	cost = 0
 
 	for i in range(len(matrix)):
@@ -85,7 +84,7 @@ def calc_aptitude(matrix,vectorIndividual):
 			sum1 = sum1 + float(cost)
 		
 	cost = 1/sum1	
-	#print("cos of individual", vectorIndividual, cost)
+	#print("Cost of individual ", vectorIndividual,": ", cost)
 
 	return cost
 
@@ -146,10 +145,8 @@ def bestIndividual(fitness,population):
 			var = fitness[i]						
 			index = i
 	
-	#print("Best individual:", aptitude[indice])
+	#print("Best individual: ", aptitude[indice])
 	return population[index]
-
-# decreases all aptitude values by the minimum value
 
 def roulette(aptitude,randomNumber,population):
 	
@@ -371,7 +368,7 @@ def nextGeneration(fitness, lastGen):
 if __name__ == '__main__':
 
 	matrix = completeMatrix(matriz) # complete matrix csv
-	possibilities = getPossibilities(matrix) # depends on table (csv)
+	possibilities = getPossibilities(matrix) # it depends on table (csv)
 	#print("Possibilities",possibilities)
 	
 	populationInitial = [[1,2,3,4,5],[5,4,3,2,1],[1,3,2,4,5],[1,2,4,3,5]]
