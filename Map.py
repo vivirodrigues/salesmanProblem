@@ -32,14 +32,30 @@ class Map:
 	def getEdges(self):
 		return self.edges
 
+	def getListEdges(self,nodes):
+		listEdges = []
+		x = xml.dom.minidom.parse(self.name + '.net.xml')
+		net = x.documentElement
+		child = [i for i in net.childNodes if i.nodeType == x.ELEMENT_NODE]	
+		for m in range(len(nodes)-1):				
+			for i in child:
+				if i.nodeName == "edge":
+					if i.getAttribute('id')[0]!= ':': # edges automaticas que aparecem no .net						
+						from1 = i.getAttribute('from')
+						to1 = i.getAttribute('to')						
+						if from1 == str(nodes[m]) and to1 == str(nodes[m+1]):
+							listEdges.append(i.getAttribute('id'))
+		return listEdges
+
 	def setNodes(self):
 		x = xml.dom.minidom.parse(self.name + '.net.xml')
 		net = x.documentElement			
 		nodes = []
 		child = [i for i in net.childNodes if i.nodeType == x.ELEMENT_NODE]
 		for i in child:
-			if i.nodeName == "junction":				
-				nodes.append(i.getAttribute('id'))
+			if i.nodeName == "junction":
+				if i.getAttribute('id')[0]!= ':': # edges automaticas que aparecem no .net		
+					nodes.append(int(i.getAttribute('id')))
 		self.nodes = nodes
 
 	def getNodes(self):
@@ -112,9 +128,7 @@ class Map:
 			return validate
 
 	def displacement(self,i,f):
-		# i: initial position and f: final position
-		# http://www.fotonica.ifsc.usp.br/ebook/book3/Capitulo3.pdf
-		# https://edisciplinas.usp.br/pluginfile.php/114447/mod_resource/content/1/Aula_2_MovTridimensional_2013.pdf
+		
 		if self.validateEdge(i,f) == True:
 			
 			xi = 0
@@ -137,36 +151,15 @@ class Map:
 			deltaX = float(xf) - float(xi)
 			deltaY = float(yf) - float(yi)
 			deltaZ = float(zf) - float(zi)
-			deltaR = ((deltaX ** 2) + (deltaY ** 2) + (deltaZ ** 2)) ** 0.5
+			deltaR = ((deltaX ** 2) + (deltaY ** 2) + (deltaZ ** 2)) ** 0.5			
 			
-			#print("Initial point:",i)
-			#print(" x: ",xi," y: ",yi," z: ", zi)
-			#print("Final point:",f)
-			#print(" x: ",xf," y: ",yf," z: ", zf)
-			#print("deltax:",deltaX)
-			#print("deltay:",deltaY)
-			#print("deltaz:",deltaZ)
-			#print("deltaR",deltaR)
-			
-			return deltaR
-
-		#elif i == f:
-		#	return 0
+			return deltaR		
 
 		else:
 			return ""
 
 	def setCosts(self):
-		""" Random costs  
-		costs = []
-		for i in self.edges:
-			costs = []
-			costs.append(i)
-			costs.append(random.uniform(0, 10))
-			self.costs.append(costs)
-		#self.dictCosts = dict(zip(self.edges, self.costs))
 		
-		"""
 		x = xml.dom.minidom.parse(self.name + '.net.xml')
 		net = x.documentElement			
 		cost = []
@@ -196,7 +189,7 @@ class Map:
 				m = []
 				m.append(i)
 				for j in self.nodes:				
-					m.append(self.displacement(i,j))
+					m.append(self.displacement(str(i),str(j)))
 				self.matrix.append(m)
 			with open(self.csvFile + '.csv', 'w', newline='') as file:
 				writer = csv.writer(file, delimiter=' ')
@@ -221,4 +214,4 @@ class Map:
 		c = self.setX()
 		d = self.setY()
 		e = self.setZ()
-		f = self.setMatrix()
+		f = self.setMatrix()		
