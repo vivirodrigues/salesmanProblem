@@ -3,33 +3,45 @@ from random import randint
 import numpy as np
 import copy
 import csv
-import ConsuptionModel as cM
-import fuzzy
-import math
-import mainS
 
-class GA:	
+class GA:
+	"""	
 
-	def __init__(self, csvFile, nodes, inicio, destino, X, Y, Z):
+	Do ponto a ate o d
+	pop1 = [a c b d]		fitness = 12
+	pop2 = [a c d]			fitness = 15
+	pop3 = [a e i d]		fitness = 10
+
+	pop1 + pop3 = [a c i d] -> [a i d] or [a c e i d]
+	pop1 mutaded = [a b d] or [a c b e d]
+
+
+	"""
+
+	def __init__(self, csvFile, nodes, inicio, destino):
 		self.csv = csvFile
 		self.matrix = []
 		self.n_individuals = 3
 		self.population = []
 		self.fitness = []
 		self.nodes = nodes
-		self.edgesV = {} #edges vizinhas
+		self.edgesV = {}
 		self.limit = 10 # generation limit
 		self.criterion = False
 		self.bestFitness = 0
 		self.fitnessDesired = 10000
 		self.inicio = inicio
 		self.destino = destino
-		self.f_2 = fuzzy.Algorithm()
-		self.X = X
-		self.Y = Y
-		self.Z = Z
 
 	def setInitialPop(self):
+		"""for i in range(0,self.n_individuals):
+			result = []
+			while len(result) != len(self.nodes):
+				r = randint(0, len(self.nodes)-1)
+				if r not in result:
+					result.append(r)
+			self.population.append(result)
+		"""
 		for i in range(0,self.n_individuals):
 			individual = self.aStar(self.inicio,self.destino)
 			self.population.append(individual)
@@ -96,90 +108,6 @@ class GA:
 		#print("cost of individual", vectorIndividual, cost)
 
 		return cost
-
-	def displacement(self,i,f):
-
-		xi = 0
-		yi = 0
-		zi = 0
-		xf = 0
-		yf = 0
-		zf = 0
-
-		for j in range(len(self.nodes)):
-			if self.X[j][0] == str(i):
-				xi = self.X[j][1]
-				yi = self.Y[j][1]
-				zi = self.Z[j][1]
-			elif self.X[j][0] == str(f):
-				xf = self.X[j][1]
-				yf = self.Y[j][1]
-				zf = self.Z[j][1]
-
-		deltaX = float(xf) - float(xi)
-		deltaY = float(yf) - float(yi)
-		deltaZ = float(zf) - float(zi)
-		deltaR = ((deltaX ** 2) + (deltaY ** 2) + (deltaZ ** 2)) ** 0.5
-				
-		return deltaR
-
-	def getAngle(self,i,f):
-		xi = 0
-		yi = 0
-		zi = 0
-		xf = 0
-		yf = 0
-		zf = 0
-		
-		for j in range(len(self.X)):
-			if self.X[j][0] == str(i):
-				xi = self.X[j][1]
-				yi = self.Y[j][1]
-				zi = self.Z[j][1]
-			elif self.X[j][0] == str(f):
-				xf = self.X[j][1]
-				yf = self.Y[j][1]
-				zf = self.Z[j][1]
-		deltaX = float(xf) - float(xi)
-		deltaY = float(yf) - float(yi)
-		deltaZ = float(zf) - float(zi)		
-		tan = deltaZ/deltaX		
-		angle = math.degrees(math.atan(tan))
-		
-		return angle
-
-	def calculate_real_fuel(self,speed,accel,slope):
-	    modelo = cM.ModelConsuption(speed, accel, slope)
-	    consuption = modelo.run()
-	    instant_fuel = consuption
-	       
-	    return instant_fuel
-
-
-	def cfitness(self,vectorIndividual):
-		# verificar as edges
-		# mapear slopes
-		# slope 10 metros
-
-		c = mainS.main(['1to2'])
-		print(c)
-		"""
-		angle = 0
-		inf10 = 0
-		consumption = 0
-		accel = 0
-		time = 0
-
-		for i in range(0,len(vectorIndividual)-1):
-			angle = self.getAngle(vectorIndividual[i],vectorIndividual[i+1]) # ok sumo
-			print("slope",angle)		
-			length = self.displacement(vectorIndividual[i],vectorIndividual[i+1])									
-			speed = 27.52#self.f_2.findSpeed(angle, inf10)			
-			time = 7		
-			for j in range(int(time)):
-				consumption += self.calculate_real_fuel(speed,accel,angle)
-				print(consumption)		
-		"""
 
 	def setFitnessPopulation(self):
 		# population fitness (vector)
@@ -298,7 +226,15 @@ class GA:
 		if len(selecteds) > 1:
 			return selecteds
 		elif len(selecteds) == 1: # if it is just one individual, it is not returned inside other list
-			return selecteds[0]	
+			return selecteds[0]
+
+	def generativeFunction(vector, minAllele, maxAllele):
+		# mutation
+		newAllele = random.randrange(minAllele, maxAllele+1, 1)
+		newLocus = random.randrange(0, len(vector), 1)
+		vector[newLocus] = newAllele
+	
+		return vector
 
 	def mutation(self,individual,typ):
 		#print("individual", individual)		
@@ -345,7 +281,149 @@ class GA:
 				#print("new:",newIndividual)
 				return newIndividual	
 		return individual
+			
+	def recombination(self,parents,typ):
 	
+		child1 = []
+		child2 = []
+		father1 = parents[0]
+		father2 = parents[1]
+		f1 = father1.remove(father1[-1])
+		f1 = father1.remove(father1[0])
+		f2 = father2.remove(father2[-1])
+		f2 = father2.remove(father2[0])
+
+		if typ == 1:
+			intersec = set(f1).intersection(set(f2))
+			if intersec > 0:
+				intersec = list(intersec)
+				chosen = random.choice(intersec)
+
+		for i in range(len(father1)):
+			if i <= points:
+				child1.append(father1[i])			
+			else:			
+				child2.append(father1[i])
+		
+		for i in range(len(father2)):
+			if i <= points:
+				child2.append(father2[i])
+			else:
+				child1.append(father2[i])
+				
+
+		return child1,child2
+
+	def adjustVector(self,population):
+
+		newPop = []			
+		repeated = []
+		missing = []	
+		len_individual = 0
+		
+		for i in range(len(population)):
+			repeated = []
+			missing = []
+			vectorIndividual = population[i]
+			len_individual = len(vectorIndividual)
+			for j in range(len(self.nodes)):
+				if vectorIndividual.count(int(self.nodes[j])) < 1:
+					missing.append(int(self.nodes[j]))
+				elif vectorIndividual.count(int(self.nodes[j])) > 1:					
+					repeated.append(int(self.nodes[j]))
+
+			vectorIndividual = self.complete(vectorIndividual,missing,repeated)
+			newPop.append(vectorIndividual)
+
+		return newPop
+
+	def complete(self,vectorIndividual,missing,repeated):		
+		for i in range(len(vectorIndividual)):		
+			for j in range(len(repeated)):
+				if str(vectorIndividual[i]) == str(repeated[j]) and len(missing)>0:
+					var = random.choice(missing)			
+					vectorIndividual[i] = var
+					missing.remove(var)						
+		vectorIndividual = self.replace(vectorIndividual)
+		return vectorIndividual
+
+	
+	def replace(self, individual):	
+		adicionados = []
+		for i in range(0,len(individual)-1):
+			modif = False
+			if self.validateRoute(individual[i],individual[i+1]) == False: # se o primeiro e o segundo n estiverem ok
+				possibilities = self.edgesV.get(str(individual[i])) # vê com quem o primeiro se conecta
+				if len(possibilities) > 0:
+					print("a",individual[i])
+					print(possibilities)
+					z = 0
+					while modif == False:
+						var = random.choice(list(possibilities)) # escolhe aleatoriamente uma conexao p o 1º						
+						"""#print("var", var)
+						z += 1
+						if z > 5 and i > 1:
+							rem1 = adicionados.pop()
+							print(rem1,"removido")
+							rem2 = adicionados.pop()
+							print(rem2,"removido")
+							print(i)
+							i -= 2
+							modif = True
+						else:"""
+						for j in range(len(individual)): # procura esse nó no individuo							
+							if str(individual[j]) == str(var) and int(var) not in adicionados:
+								#print("var", var)
+								#print(str(var) not in adicionados)
+								individual[j] = individual[i+1] # nó é substituido
+								individual[i+1] = int(var) # completa o swap
+								adicionados.append(individual[i])
+								modif = True						
+				else:
+					print(individual[i])
+					print(possibilities)
+			print("adicionados",adicionados)
+		return individual
+	"""
+
+	def replace(self, individual):
+		new = []
+		i = 0
+		while len(new) != len(individual):			
+			new.append(individual[i])
+			if self.validateRoute(individual[i],individual[i+1]) == True: # se o primeiro e o segundo estiverem ok
+				pass
+			else:
+				possibilities = self.edgesV.get(str(individual[i])) # vê com quem o primeiro se conecta
+				print(individual[i])
+				print(possibilities)
+				if len(possibilities) > 0:
+					var = random.choice(list(possibilities)) # escolhe aleatoriamente uma conexao p o 1º
+					if var not in new:
+						print("var",var)
+						for j in range(i+1,len(individual)): # procura esse nó no individuo
+							if str(individual[j]) == str(var):
+								print("entrou aq")
+								individual[j] = individual[i+1] # nó é substituido
+								individual[i+1] = int(var) # completa o swap
+								i += 1								
+					else:
+						print("entrou aqui com", new)
+						for j in range(len(individual)): # procura esse nó no individuo
+							if str(individual[j]) == str(var):
+								individual[j] = individual[i+1] # nó é substituido
+								individual[i+1] = int(var) # completa o swap
+								new.remove(var)
+								i += 1
+				else:
+					print("poss - 1",individual[i])
+			#i += 1
+			if i == len(individual)-1:
+				i = 0
+			#print(new)
+		return new
+	
+	"""
 	def setEdgesV(self):
 		for i in self.nodes:
 			self.edgesV.update([(i,{})])
@@ -385,12 +463,27 @@ class GA:
 
 		#before = copy.deepcopy(self.population)
 		points = []
-		generation = []				
+		generation = []
+		length = len(self.fitness)
+		#points.append(random.randrange(0, length, 1))
+		#points.append(random.randrange(0, length, 1))
+		
+		""" crossover
+		amountParents = 2
+		selecteds = self.selectIndiv(amountParents)
+		#print("Selected individuals for crossover:",selecteds)
+		children = self.recombinationCrossover(selecteds,points)
+		#print("Children:", children)
+		generation.append(children[0])
+		generation.append(children[1]) """
 
 		# mutation
 		amountIndividuals = 2
 		typeMutation = 1 # sequencial swap
-		selected = self.selectIndiv(amountIndividuals)		
+		selected = self.selectIndiv(amountIndividuals)
+		#print("Selected",selected)
+		#mutated = generativeFunction(selected,0,7)
+		#print("Selected individual(s) for mutation:", selected)
 		for a in range(amountIndividuals):
 			mutated = self.mutation(selected[a], typeMutation)	
 			generation.append(mutated)
@@ -410,7 +503,6 @@ class GA:
 		#print(self.matrix)		
 		self.setInitialPop()
 		#print(len(self.population))
-		"""
 		print("Population", self.population)
 		#self.adjustVector(self.population) # initial population
 		while self.criterion != True:
@@ -425,11 +517,6 @@ class GA:
 			gen += 1
 		print("The best route is:", self.getBestIndividual())
 		return self.getBestIndividual()
-		"""
-		ind = [1,2]
-		self.cfitness(ind)
-		#self.getAngle(1,2)
-		#self.displacement(1,2)
 		
 				
 		

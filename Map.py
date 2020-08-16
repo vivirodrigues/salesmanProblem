@@ -214,4 +214,4 @@ class Map:
 		c = self.setX()
 		d = self.setY()
 		e = self.setZ()
-		f = self.setMatrix()		
+		#f = self.setMatrix()		

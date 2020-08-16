@@ -9,6 +9,7 @@ import time
 from optparse import OptionParser
 import Simulation
 import ConsuptionModel as cM
+import fuzzy
 
 if 'SUMO_HOME' in os.environ:
     tools = os.path.join(os.environ['SUMO_HOME'], 'tools')
@@ -67,34 +68,51 @@ def calculate_real_fuel(speed,accel,slope):
            
         return instant_fuel
 
-def run(network, begin, end, interval):
+def run(network, begin, end, interval, rota):
 
     step = 1
-    consuption = 0
+    consunption = 0
+    f_2 = fuzzy.Algorithm()
     
-    adition = Simulation.Vehicles.add1(traci)    
+    #adition = Simulation.Vehicles.add1(traci) 
+    traci.route.add("trip", rota)
+    traci.vehicle.add("caminhao", "trip")
+    traci.vehicle.setParameter("caminhao","carFollowModel","KraussPS")
+    traci.vehicle.setVehicleClass("caminhao","truck")
+    traci.vehicle.setShapeClass("caminhao","truck")
+    traci.vehicle.setEmissionClass("caminhao","HBEFA3/HDV")
+    traci.vehicle.setMaxSpeed("caminhao",28) # aprox 8 km/h 
+    print(traci.vehicle.getAccel("caminhao"))
+    print(traci.vehicle.getVehicleClass("caminhao"))    
+    print(traci.vehicle.getEmissionClass("caminhao")) 
     
-    while step == 1 or traci.simulation.getMinExpectedNumber() > 0:        
+    while step == 1 or traci.simulation.getMinExpectedNumber() > 0:   
+
+        inf10 = 0
+        angle = traci.vehicle.getSlope("caminhao")
+        speed = f_2.findSpeed(angle, inf10)
+        traci.vehicle.setSpeed("caminhao",speed)
+        angle = traci.vehicle.getSlope("caminhao")
+        acceleration = traci.vehicle.getAcceleration("caminhao")
+        
+        consunption += calculate_real_fuel(speed,acceleration,angle)         
+
         traci.simulationStep()                          
         vehicles = traci.simulation.getEndingTeleportIDList()
-        traci.vehicle.setSpeed("caminhao",27.52)
-        speed = 27.52
-        slope = traci.vehicle.getSlope("caminhao")
-        print("slope",slope)
-        consuption += calculate_real_fuel(speed,0,slope) 
-        print("consuption",consuption)      
+        
         for vehicle in vehicles:
             traci.vehicle.remove(vehicle, reason=4)    
 
         step += 1
     
-    time.sleep(10)    
+    #time.sleep(10)    
     print("Simulation finished")
     traci.close()
     sys.stdout.flush()
-    time.sleep(10)
+    #time.sleep(10)
+    return consunption
         
-def start_simulation(sumo, scenario, network, begin, end, interval, output):
+def start_simulation(sumo, scenario, network, begin, end, interval, output, rota):
     unused_port_lock = UnusedPortLock()
     unused_port_lock.__enter__()
     remote_port = find_unused_port()
@@ -105,7 +123,7 @@ def start_simulation(sumo, scenario, network, begin, end, interval, output):
 
     try:
         traci.init(remote_port)            
-        run(network, begin, end, interval)
+        consunption = run(network, begin, end, interval,rota)        
     except Exception as e:
         print(e)        
         raise
@@ -113,25 +131,25 @@ def start_simulation(sumo, scenario, network, begin, end, interval, output):
         print("Terminating SUMO")  
         terminate_sumo(sumo)
         unused_port_lock.__exit__()
+
+    return consunption
         
-def main():
+def main(rota):
 
     parser = OptionParser()
-    parser.add_option("-c", "--command", dest="command", default="sumo-gui", help="The command used to run SUMO [default: %default]", metavar="COMMAND")
-    parser.add_option("-s", "--scenario", dest="scenario", default="map.sumocfg", help="A SUMO configuration file [default: %default]", metavar="FILE")
-    parser.add_option("-n", "--network", dest="network", default="map.net.xml", help="A SUMO network definition file [default: %default]", metavar="FILE")    
+    parser.add_option("-c", "--command", dest="command", default="sumo", help="The command used to run SUMO [default: %default]", metavar="COMMAND")
+    parser.add_option("-s", "--scenario", dest="scenario", default="SUMO/map.sumocfg", help="A SUMO configuration file [default: %default]", metavar="FILE")
+    parser.add_option("-n", "--network", dest="network", default="SUMO/map.net.xml", help="A SUMO network definition file [default: %default]", metavar="FILE")    
     parser.add_option("-b", "--begin", dest="begin", type="int", default=0, action="store", help="The simulation time (s) at which the re-routing begins [default: %default]", metavar="BEGIN")
     parser.add_option("-e", "--end", dest="end", type="int", default=600, action="store", help="The simulation time (s) at which the re-routing ends [default: %default]", metavar="END")
     parser.add_option("-i", "--interval", dest="interval", type="int", default=1, action="store", help="The interval (s) of classification [default: %default]", metavar="INTERVAL")    
-    parser.add_option("-o", "--full-output", dest="output", default="output1.xml", help="The XML file at which the output must be written [default: %default]", metavar="FILE")
+    parser.add_option("-o", "--full-output", dest="output", default="SUMO/output1.xml", help="The XML file at which the output must be written [default: %default]", metavar="FILE")
 
 
     (options, args) = parser.parse_args()
     
-
-        
-    start_simulation(options.command, options.scenario, options.network, options.begin, options.end, options.interval, options.output)
-
+    consunption = start_simulation(options.command, options.scenario, options.network, options.begin, options.end, options.interval, options.output, rota)
+    return consunption
 
 if __name__ == "__main__":
     main()
