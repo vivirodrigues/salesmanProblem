@@ -109,6 +109,81 @@ class GA:
 
 		return cost
 
+	def displacement(self,i,f):
+
+		xi = 0
+		yi = 0
+		zi = 0
+		xf = 0
+		yf = 0
+		zf = 0
+
+		for j in range(len(self.nodes)):
+			if self.X[j][0] == str(i):
+				xi = self.X[j][1]
+				yi = self.Y[j][1]
+				zi = self.Z[j][1]
+			elif self.X[j][0] == str(f):
+				xf = self.X[j][1]
+				yf = self.Y[j][1]
+				zf = self.Z[j][1]
+
+		deltaX = float(xf) - float(xi)
+		deltaY = float(yf) - float(yi)
+		deltaZ = float(zf) - float(zi)
+		deltaR = ((deltaX ** 2) + (deltaY ** 2) + (deltaZ ** 2)) ** 0.5
+				
+		return deltaR
+
+	def getAngle(self,i,f):
+		xi = 0
+		yi = 0
+		zi = 0
+		xf = 0
+		yf = 0
+		zf = 0
+		
+		for j in range(len(self.X)):
+			if self.X[j][0] == str(i):
+				xi = self.X[j][1]
+				yi = self.Y[j][1]
+				zi = self.Z[j][1]
+			elif self.X[j][0] == str(f):
+				xf = self.X[j][1]
+				yf = self.Y[j][1]
+				zf = self.Z[j][1]
+		deltaX = float(xf) - float(xi)
+		deltaY = float(yf) - float(yi)
+		deltaZ = float(zf) - float(zi)		
+		tan = deltaZ/deltaX		
+		angle = math.degrees(math.atan(tan))
+		
+		return angle
+
+	def calculate_real_fuel(self,speed,accel,slope):
+	    modelo = cM.ModelConsumption(speed, accel, slope)
+	    consumption = modelo.run()
+	    instant_fuel = consumption
+	       
+	    return instant_fuel
+
+	def fitness1(self,vectorIndividual):
+		angle = 0
+		inf10 = 0
+		consumption = 0
+		accel = 0
+		time = 0
+
+		for i in range(0,len(vectorIndividual)-1):
+			angle = self.getAngle(vectorIndividual[i],vectorIndividual[i+1]) # ok sumo
+			print("slope",angle)		
+			length = self.displacement(vectorIndividual[i],vectorIndividual[i+1])									
+			speed = 27.52#self.f_2.findSpeed(angle, inf10)			
+			time = 7		
+			for j in range(int(time)):
+				consumption += self.calculate_real_fuel(speed,accel,angle)
+				print(consumption)
+
 	def setFitnessPopulation(self):
 		# population fitness (vector)
 		len_pop = len(self.population)	

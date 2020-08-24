@@ -4,9 +4,11 @@ import Heuristics
 import random
 import graficos
 import GA
+import bfs
+import dfs
 
 # configuration
-net = Map.Map('SUMO/map') # net file
+net = Map.Map('SUMO2/map') # net file
 genMatrix = net.run() # csv created (costs)
 csvName = net.getcsvFile()
 nodes = net.getNodes()
@@ -14,6 +16,8 @@ edges = net.getEdges()
 X = net.getX()
 Y = net.getY()
 Z = net.getZ()
+edgesV = net.getEdgesV()
+print(edgesV)
 
 # nó inicial e final
 """
@@ -30,18 +34,27 @@ inicio = 44 objetivo = 28
 inicio = 9 objetivo = 12
 inicio = 37 objetivo = 16
 """
-inicio = 1#int(random.choice(nodes))
+inicio = '02' #int(random.choice(nodes))
 print("Iniciando de:", inicio)
-objetivo = 25#int(random.choice(nodes))
+objetivo = '50' #int(random.choice(nodes))
 print("Objetivo é", objetivo)
 
+h_bfs = bfs.Graph()
+bfss = h_bfs.run(inicio,objetivo,nodes,edges)
+print(bfss)
+
+h_dfs = dfs.DFS()
+dfss = h_dfs.run(inicio,objetivo,edgesV)
+print(dfss)
+
+"""
 # heuristicas
 heuristics = Heuristics.Heuristics(csvName,nodes,X,Y,Z)
 run = heuristics.run()
 route1 = heuristics.greedy(inicio,objetivo)
 route2 = heuristics.aStar(inicio,objetivo)
 route3 = heuristics.vizinho(inicio,objetivo)
-
+"""
 # Rotas para o sumo
 #listEdges1 = net.getListEdges(route1)
 #print("Route Greedy:",listEdges1)
@@ -60,8 +73,8 @@ route3 = heuristics.vizinho(inicio,objetivo)
 #grafico = graficos.Graficos(nodes,edges,'SUMO/Results/rota2_vizinho',X,Y,Z)
 #run = grafico.run()
 
-geneticA = GA.GA(csvName,nodes, inicio, objetivo,X,Y,Z)#,inicio,objetivo)
-test = geneticA.run()
+#geneticA = GA.GA(csvName,nodes,edges,inicio, objetivo,X,Y,Z)#,inicio,objetivo)
+#test = geneticA.run()
 #prof = Profundidade.Profundidade(csvName,nodes,edges)
 #route = prof.run()
 

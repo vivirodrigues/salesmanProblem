@@ -1,7 +1,7 @@
 import math
 import numpy as np
 
-class ModelConsuption:
+class ModelConsumption:
     """
 
     https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwinp4Wsu4DrAhVbILkGHQV4CdsQFjAAegQIBBAB&url=https%3A%2F%2Ffenix.tecnico.ulisboa.pt%2FdownloadFile%2F1970719973965948%2FDissertacao%2520de%2520Mestrado%2520Final%2520-%2520Rodrigo%2520Hibon%2520de%2520Campos%2520Dias%2520de%2520Carvalho.pdf&usg=AOvVaw02ZIJFgwG1_nxDR2QLAQnY
@@ -62,7 +62,7 @@ class ModelConsuption:
         
         return mode
 
-    def calc_fuel_consuption(self, mode):
+    def calc_fuel_consumption(self, mode):
 
         flag = False
         n = -1000
@@ -75,23 +75,23 @@ class ModelConsuption:
                 flag = True
 
         deviation = n * standardDev[mode-1]
-        consuption = media[mode-1] + deviation # galões
-        consuption = consuption * 3.78541 # litros
-        if consuption[0] < 0:
-            consuption[0] = 0
+        consumption = media[mode-1] + deviation # galões
+        consumption = consumption * 3.78541 # litros
+        if consumption[0] < 0:
+            consumption[0] = 0
         
-        return consuption
+        return consumption
 
     def run(self):
         a = self.calc_vsp()
         b = self.mapping_mode_vsp(a)
-        c = self.calc_fuel_consuption(b)
+        c = self.calc_fuel_consumption(b)
         return c[0]
 
 #speed = 30
 #accel = 1
 #slope = 5
-#modelo = ModelConsuption(speed, accel, slope)
-#consuption = modelo.run()
-#print(consuption)
+#modelo = ModelConsumption(speed, accel, slope)
+#consumption = modelo.run()
+#print(consumption)
 

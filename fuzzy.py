@@ -53,15 +53,18 @@ class Algorithm:
         # Automatically creates mapping between crisp and fuzzy values
         # using a standard membership function (triangle)
         RG.automf(names=['negative', 'neutral', 'positive'])
+
+        IS.automf(names=['low', 'medium', 'high'])
       
         # Creates membership functions using different types
-        A10['negative'] = fuzz.gaussmf(A10.universe, mimAngle, 30)
-        A10['neutral'] = fuzz.gaussmf(A10.universe, 0, 30)
-        A10['positive'] = fuzz.gaussmf(A10.universe, maxAngle, 30)
+        #A10['negative'] = fuzz.gaussmf(A10.universe, mimAngle, 30)
+        #A10['neutral'] = fuzz.gaussmf(A10.universe, 0, 30)
+        #10['positive'] = fuzz.gaussmf(A10.universe, maxAngle, 30)
 
         # Consequent: mapping between crisp and fuzzy values
         S.automf(names=['verylow', 'low', 'medium', 'high', 'veryhigh'])
 
+        """
         # Fuzzy rules creation   
         rule1 = ctrl.Rule(RG['negative']  & A10['negative'], S['veryhigh'])
         rule2 = ctrl.Rule(RG['negative'] & A10['neutral'], S['veryhigh'])
@@ -72,17 +75,29 @@ class Algorithm:
         rule5 = ctrl.Rule(RG['positive'] & A10['negative'], S['medium'])
         rule6 = ctrl.Rule(RG['positive'] & A10['neutral'], S['medium'])
         rule7 = ctrl.Rule(RG['positive'] & A10['positive'], S['low'])
+        """
+
+        rule1 = ctrl.Rule(RG['negative']  & IS['low'], S['veryhigh'])
+        rule2 = ctrl.Rule(RG['negative'] & IS['medium'], S['veryhigh'])
+        rule3 = ctrl.Rule(RG['negative'] & IS['high'], S['high'])
+        rule4 = ctrl.Rule(RG['neutral'] & IS['low'], S['high'])
+        rule4 = ctrl.Rule(RG['neutral'] & IS['medium'], S['high'])
+        rule4 = ctrl.Rule(RG['neutral'] & IS['high'], S['high'])
+        rule5 = ctrl.Rule(RG['positive'] & IS['low'], S['medium'])
+        rule6 = ctrl.Rule(RG['positive'] & IS['medium'], S['medium'])
+        rule7 = ctrl.Rule(RG['positive'] & IS['high'], S['low'])
 
         # Creating and simulating a fuzzy controller
         S_ctrl = ctrl.ControlSystem([rule1, rule2, rule3, rule4, rule5, rule6, rule7])
         self.S_simulator = ctrl.ControlSystemSimulation(S_ctrl)
 
    
-    def findSpeed(self, angle, inf10):
+    def findSpeed(self, angle, speedI):
 
         # Entering some values for quality of IS and RG
         self.S_simulator.input['RG'] = angle  # Road gradient (-90, 90) grados
-        self.S_simulator.input['A10'] = inf10 # Road gradient (-90, 90) grados               
+        #self.S_simulator.input['A10'] = inf10 # Road gradient (-90, 90) grados               
+        self.S_simulator.input['IS'] = speedI # Road gradient (-90, 90) grados               
 
         # Computing the result
         self.S_simulator.compute()
