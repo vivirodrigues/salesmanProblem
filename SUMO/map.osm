@@ -1,0 +1,2342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.8.3 (1078252 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="-1.2816000" minlon="-47.9444000" maxlat="-1.2729000" maxlon="-47.9256000"/>
+ <node id="747644268" visible="true" version="1" changeset="4800271" timestamp="2010-05-25T04:18:45Z" user="Ulf Mehlig" uid="26136" lat="-1.2744000" lon="-47.9248851"/>
+ <node id="747644303" visible="true" version="2" changeset="27576009" timestamp="2014-12-19T19:12:43Z" user="Roberlan" uid="566555" lat="-1.2800051" lon="-47.9248074"/>
+ <node id="747644436" visible="true" version="2" changeset="27576009" timestamp="2014-12-19T19:12:43Z" user="Roberlan" uid="566555" lat="-1.2781386" lon="-47.9245312"/>
+ <node id="2517873855" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2780781" lon="-47.9273413"/>
+ <node id="2517873858" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2775824" lon="-47.9270043"/>
+ <node id="2517873860" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2793236" lon="-47.9280672"/>
+ <node id="2517873862" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2776496" lon="-47.9281643"/>
+ <node id="2517873865" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2780835" lon="-47.9271321"/>
+ <node id="2517873868" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2784750" lon="-47.9271268"/>
+ <node id="2517873871" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2785233" lon="-47.9271750"/>
+ <node id="2517873874" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2783624" lon="-47.9276793"/>
+ <node id="2517873877" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2780942" lon="-47.9275613"/>
+ <node id="2517873879" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2782551" lon="-47.9276686"/>
+ <node id="2517873882" visible="true" version="2" changeset="68375133" timestamp="2019-03-21T14:12:54Z" user="Ivonilson" uid="9552245" lat="-1.2793047" lon="-47.9269018"/>
+ <node id="2517873885" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2783999" lon="-47.9270999"/>
+ <node id="2517873888" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2785876" lon="-47.9276632"/>
+ <node id="2517873892" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2780835" lon="-47.9274540"/>
+ <node id="2517873896" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:31Z" user="billypineda" uid="707059" lat="-1.2781586" lon="-47.9276364"/>
+ <node id="2517873899" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:32Z" user="billypineda" uid="707059" lat="-1.2785447" lon="-47.9272394"/>
+ <node id="2517891621" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:46:18Z" user="billypineda" uid="707059" lat="-1.2792339" lon="-47.9275827"/>
+ <node id="2517891623" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:46:18Z" user="billypineda" uid="707059" lat="-1.2790408" lon="-47.9279770"/>
+ <node id="2517891624" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:46:18Z" user="billypineda" uid="707059" lat="-1.2790167" lon="-47.9275908"/>
+ <node id="2517891625" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:46:18Z" user="billypineda" uid="707059" lat="-1.2792553" lon="-47.9279690"/>
+ <node id="2518107929" visible="true" version="2" changeset="48293023" timestamp="2017-04-30T21:23:21Z" user="patodiez" uid="1856060" lat="-1.2731393" lon="-47.9272005"/>
+ <node id="2518107957" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2815250" lon="-47.9266816"/>
+ <node id="2518107963" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2763684" lon="-47.9269807"/>
+ <node id="2518107986" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2850258" lon="-47.9264778"/>
+ <node id="2518606886" visible="true" version="1" changeset="18693587" timestamp="2013-11-03T13:29:22Z" user="billypineda" uid="707059" lat="-1.2649398" lon="-47.9321803"/>
+ <node id="2518606888" visible="true" version="2" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2758428" lon="-47.9310536"/>
+ <node id="2518606893" visible="true" version="3" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2709631" lon="-47.9315894"/>
+ <node id="2518606896" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2824528" lon="-47.9307103"/>
+ <node id="2518606900" visible="true" version="1" changeset="18693587" timestamp="2013-11-03T13:29:22Z" user="billypineda" uid="707059" lat="-1.2626176" lon="-47.9324432"/>
+ <node id="2518606901" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2795534" lon="-47.9308630"/>
+ <node id="2518606902" visible="true" version="1" changeset="18693587" timestamp="2013-11-03T13:29:22Z" user="billypineda" uid="707059" lat="-1.2673049" lon="-47.9319443"/>
+ <node id="2518606904" visible="true" version="1" changeset="18693587" timestamp="2013-11-03T13:29:22Z" user="billypineda" uid="707059" lat="-1.2770709" lon="-47.9310002"/>
+ <node id="2518606905" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2867044" lon="-47.9304488"/>
+ <node id="2518606914" visible="true" version="1" changeset="18693587" timestamp="2013-11-03T13:29:22Z" user="billypineda" uid="707059" lat="-1.2880598" lon="-47.9304369"/>
+ <node id="2518606921" visible="true" version="2" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2746040" lon="-47.9311663"/>
+ <node id="2519069082" visible="true" version="1" changeset="18700981" timestamp="2013-11-03T19:48:04Z" user="billypineda" uid="707059" lat="-1.2821847" lon="-47.9293666"/>
+ <node id="2519069083" visible="true" version="2" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2709168" lon="-47.9302034"/>
+ <node id="2519069085" visible="true" version="1" changeset="18700981" timestamp="2013-11-03T19:48:04Z" user="billypineda" uid="707059" lat="-1.2647838" lon="-47.9308708"/>
+ <node id="2519069088" visible="true" version="1" changeset="18700981" timestamp="2013-11-03T19:48:04Z" user="billypineda" uid="707059" lat="-1.2624723" lon="-47.9310961"/>
+ <node id="2519069091" visible="true" version="1" changeset="18700981" timestamp="2013-11-03T19:48:04Z" user="billypineda" uid="707059" lat="-1.2832681" lon="-47.9292995"/>
+ <node id="2519069092" visible="true" version="2" changeset="48548375" timestamp="2017-05-10T02:24:16Z" user="M Aviz" uid="5781101" lat="-1.2733143" lon="-47.9299238"/>
+ <node id="2519069093" visible="true" version="1" changeset="18700981" timestamp="2013-11-03T19:48:04Z" user="billypineda" uid="707059" lat="-1.2745344" lon="-47.9297931"/>
+ <node id="2519069096" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2844828" lon="-47.9292163"/>
+ <node id="2519069099" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2785250" lon="-47.9295268"/>
+ <node id="2519069100" visible="true" version="1" changeset="18700981" timestamp="2013-11-03T19:48:04Z" user="billypineda" uid="707059" lat="-1.2762608" lon="-47.9296477"/>
+ <node id="2519069101" visible="true" version="1" changeset="18700981" timestamp="2013-11-03T19:48:04Z" user="billypineda" uid="707059" lat="-1.2672674" lon="-47.9305924"/>
+ <node id="2519069103" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2810021" lon="-47.9293987"/>
+ <node id="2519085447" visible="true" version="2" changeset="76027049" timestamp="2019-10-22T04:51:18Z" user="PlazaBaquedano" uid="9225258" lat="-1.2901998" lon="-47.9428044"/>
+ <node id="2519251216" visible="true" version="3" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2809518" lon="-47.9435652"/>
+ <node id="2519251217" visible="true" version="2" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2869551" lon="-47.9430599"/>
+ <node id="2519251264" visible="true" version="2" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2839330" lon="-47.9433113"/>
+ <node id="2846258813" visible="true" version="1" changeset="22234565" timestamp="2014-05-09T16:33:47Z" user="Esrom Thiago" uid="2064788" lat="-1.2796207" lon="-47.9189608"/>
+ <node id="2971754126" visible="true" version="4" changeset="76083111" timestamp="2019-10-23T06:53:40Z" user="PlazaBaquedano" uid="9225258" lat="-1.2806515" lon="-47.9438156"/>
+ <node id="3243195642" visible="true" version="2" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2638375" lon="-47.9343461"/>
+ <node id="3243195644" visible="true" version="2" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2639636" lon="-47.9343393"/>
+ <node id="3243195650" visible="true" version="2" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2642907" lon="-47.9343072"/>
+ <node id="3243195657" visible="true" version="2" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2646366" lon="-47.9342629"/>
+ <node id="3243196061" visible="true" version="2" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2648780" lon="-47.9315096"/>
+ <node id="3243196064" visible="true" version="2" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2649826" lon="-47.9342388"/>
+ <node id="3243196066" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:39Z" user="Roberlan" uid="566555" lat="-1.2650315" lon="-47.9328900"/>
+ <node id="3243196075" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:39Z" user="Roberlan" uid="566555" lat="-1.2652054" lon="-47.9342369"/>
+ <node id="3243196092" visible="true" version="2" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2660962" lon="-47.9313852"/>
+ <node id="3243196094" visible="true" version="2" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2661008" lon="-47.9320622"/>
+ <node id="3243196095" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:40Z" user="Roberlan" uid="566555" lat="-1.2661024" lon="-47.9327748"/>
+ <node id="3243196100" visible="true" version="2" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2661598" lon="-47.9341100"/>
+ <node id="3243196117" visible="true" version="2" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2672920" lon="-47.9312551"/>
+ <node id="3243196119" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:40Z" user="Roberlan" uid="566555" lat="-1.2673232" lon="-47.9326782"/>
+ <node id="3243196123" visible="true" version="2" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2673477" lon="-47.9340054"/>
+ <node id="3243196136" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:40Z" user="Roberlan" uid="566555" lat="-1.2678921" lon="-47.9453594"/>
+ <node id="3243196137" visible="true" version="2" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2678920" lon="-47.9326187"/>
+ <node id="3243196149" visible="true" version="2" changeset="75645428" timestamp="2019-10-14T07:20:09Z" user="SarekPark" uid="10278878" lat="-1.2683762" lon="-47.9452375"/>
+ <node id="3243196152" visible="true" version="2" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2684330" lon="-47.9338780"/>
+ <node id="3243196153" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:41Z" user="Roberlan" uid="566555" lat="-1.2684704" lon="-47.9300924"/>
+ <node id="3243196154" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:41Z" user="Roberlan" uid="566555" lat="-1.2684816" lon="-47.9304620"/>
+ <node id="3243196155" visible="true" version="2" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2685008" lon="-47.9311126"/>
+ <node id="3243196156" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:41Z" user="Roberlan" uid="566555" lat="-1.2685558" lon="-47.9318177"/>
+ <node id="3243196157" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:41Z" user="Roberlan" uid="566555" lat="-1.2685592" lon="-47.9325234"/>
+ <node id="3243196374" visible="true" version="4" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2694547" lon="-47.9337969"/>
+ <node id="3243196410" visible="true" version="3" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2708501" lon="-47.9336456"/>
+ <node id="3243196411" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:42Z" user="Roberlan" uid="566555" lat="-1.2708978" lon="-47.9298197"/>
+ <node id="3243196412" visible="true" version="3" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2709436" lon="-47.9308793"/>
+ <node id="3243196413" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:42Z" user="Roberlan" uid="566555" lat="-1.2709272" lon="-47.9446623"/>
+ <node id="3243196415" visible="true" version="2" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2709959" lon="-47.9322928"/>
+ <node id="3243196417" visible="true" version="2" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2710053" lon="-47.9330070"/>
+ <node id="3243196419" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:42Z" user="Roberlan" uid="566555" lat="-1.2710112" lon="-47.9336371"/>
+ <node id="3243196421" visible="true" version="2" changeset="48293197" timestamp="2017-04-30T21:33:04Z" user="patodiez" uid="1856060" lat="-1.2710285" lon="-47.9446455"/>
+ <node id="3243196453" visible="true" version="5" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2720491" lon="-47.9352483"/>
+ <node id="3243196456" visible="true" version="2" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2721088" lon="-47.9359500"/>
+ <node id="3243196458" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:42Z" user="Roberlan" uid="566555" lat="-1.2721470" lon="-47.9300580"/>
+ <node id="3243196460" visible="true" version="2" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2721557" lon="-47.9307425"/>
+ <node id="3243196661" visible="true" version="3" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2721825" lon="-47.9366715"/>
+ <node id="3243196662" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:42Z" user="Roberlan" uid="566555" lat="-1.2722006" lon="-47.9321591"/>
+ <node id="3243196664" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:42Z" user="Roberlan" uid="566555" lat="-1.2722186" lon="-47.9444005"/>
+ <node id="3243196665" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:42Z" user="Roberlan" uid="566555" lat="-1.2722194" lon="-47.9328964"/>
+ <node id="3243196666" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:43Z" user="Roberlan" uid="566555" lat="-1.2722348" lon="-47.9334993"/>
+ <node id="3243196667" visible="true" version="3" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2722388" lon="-47.9373233"/>
+ <node id="3243196670" visible="true" version="3" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2723112" lon="-47.9380173"/>
+ <node id="3243196673" visible="true" version="3" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2723749" lon="-47.9387013"/>
+ <node id="3243196678" visible="true" version="3" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2724426" lon="-47.9393611"/>
+ <node id="3243196684" visible="true" version="3" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2725197" lon="-47.9400350"/>
+ <node id="3243196685" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:43Z" user="Roberlan" uid="566555" lat="-1.2725511" lon="-47.9250812"/>
+ <node id="3243196689" visible="true" version="2" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2725895" lon="-47.9406844"/>
+ <node id="3243196691" visible="true" version="2" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2726449" lon="-47.9413514"/>
+ <node id="3243196706" visible="true" version="4" changeset="75539536" timestamp="2019-10-11T02:16:14Z" user="SarekPark" uid="10278878" lat="-1.2731865" lon="-47.9454450"/>
+ <node id="3243196708" visible="true" version="2" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2732021" lon="-47.9449704"/>
+ <node id="3243196709" visible="true" version="2" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2732302" lon="-47.9442979"/>
+ <node id="3243196710" visible="true" version="4" changeset="75538205" timestamp="2019-10-11T01:02:34Z" user="SarekPark" uid="10278878" lat="-1.2732010" lon="-47.9456685"/>
+ <node id="3243196712" visible="true" version="2" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2732498" lon="-47.9435115"/>
+ <node id="3243196713" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:43Z" user="Roberlan" uid="566555" lat="-1.2732808" lon="-47.9427278"/>
+ <node id="3243196715" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:43Z" user="Roberlan" uid="566555" lat="-1.2733165" lon="-47.9419366"/>
+ <node id="3243196716" visible="true" version="3" changeset="48293023" timestamp="2017-04-30T21:23:21Z" user="patodiez" uid="1856060" lat="-1.2732402" lon="-47.9288696"/>
+ <node id="3243196717" visible="true" version="2" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2733812" lon="-47.9306164"/>
+ <node id="3243196719" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:43Z" user="Roberlan" uid="566555" lat="-1.2734174" lon="-47.9320301"/>
+ <node id="3243196721" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:44Z" user="Roberlan" uid="566555" lat="-1.2734502" lon="-47.9327577"/>
+ <node id="3243196722" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:44Z" user="Roberlan" uid="566555" lat="-1.2734726" lon="-47.9333436"/>
+ <node id="3243196723" visible="true" version="2" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2735004" lon="-47.9449669"/>
+ <node id="3243196726" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:44Z" user="Roberlan" uid="566555" lat="-1.2734902" lon="-47.9338043"/>
+ <node id="3243196729" visible="true" version="3" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2735722" lon="-47.9351285"/>
+ <node id="3243196730" visible="true" version="2" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2735797" lon="-47.9358115"/>
+ <node id="3243196731" visible="true" version="2" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2736037" lon="-47.9365002"/>
+ <node id="3243196732" visible="true" version="2" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2736259" lon="-47.9371636"/>
+ <node id="3243196733" visible="true" version="2" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2736554" lon="-47.9378356"/>
+ <node id="3243196735" visible="true" version="2" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2736866" lon="-47.9385176"/>
+ <node id="3243196736" visible="true" version="2" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2737045" lon="-47.9392038"/>
+ <node id="3243196737" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:44Z" user="Roberlan" uid="566555" lat="-1.2737107" lon="-47.9249582"/>
+ <node id="3243196739" visible="true" version="2" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2737378" lon="-47.9398587"/>
+ <node id="3243196742" visible="true" version="2" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2737648" lon="-47.9405396"/>
+ <node id="3243196743" visible="true" version="2" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2737813" lon="-47.9412024"/>
+ <node id="3243196746" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:44Z" user="Roberlan" uid="566555" lat="-1.2737986" lon="-47.9418839"/>
+ <node id="3243196748" visible="true" version="2" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2738492" lon="-47.9426616"/>
+ <node id="3243196749" visible="true" version="2" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2738684" lon="-47.9434614"/>
+ <node id="3243196751" visible="true" version="2" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2738917" lon="-47.9442317"/>
+ <node id="3243196752" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:44Z" user="Roberlan" uid="566555" lat="-1.2739118" lon="-47.9271499"/>
+ <node id="3243196754" visible="true" version="2" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2739152" lon="-47.9448959"/>
+ <node id="3243196756" visible="true" version="2" changeset="75538839" timestamp="2019-10-11T01:38:11Z" user="SarekPark" uid="10278878" lat="-1.2739350" lon="-47.9455970"/>
+ <node id="3243196965" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:44Z" user="Roberlan" uid="566555" lat="-1.2744104" lon="-47.9418110"/>
+ <node id="3243196967" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:44Z" user="Roberlan" uid="566555" lat="-1.2744496" lon="-47.9425899"/>
+ <node id="3243196968" visible="true" version="3" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2740703" lon="-47.9284237"/>
+ <node id="3243196970" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:44Z" user="Roberlan" uid="566555" lat="-1.2744889" lon="-47.9433735"/>
+ <node id="3243196972" visible="true" version="2" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2745376" lon="-47.9441619"/>
+ <node id="3243196973" visible="true" version="4" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2745664" lon="-47.9455510"/>
+ <node id="3243196974" visible="true" version="2" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2745664" lon="-47.9304716"/>
+ <node id="3243196976" visible="true" version="3" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2746361" lon="-47.9319093"/>
+ <node id="3243196977" visible="true" version="3" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2746683" lon="-47.9326066"/>
+ <node id="3243196980" visible="true" version="3" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2746951" lon="-47.9332155"/>
+ <node id="3243196982" visible="true" version="4" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2747139" lon="-47.9336527"/>
+ <node id="3243196983" visible="true" version="3" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2747488" lon="-47.9343233"/>
+ <node id="3243196984" visible="true" version="4" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2747628" lon="-47.9349961"/>
+ <node id="3243196986" visible="true" version="3" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2747836" lon="-47.9356644"/>
+ <node id="3243196987" visible="true" version="3" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2748051" lon="-47.9363322"/>
+ <node id="3243196989" visible="true" version="3" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2748480" lon="-47.9370081"/>
+ <node id="3243196990" visible="true" version="3" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2748587" lon="-47.9376680"/>
+ <node id="3243196991" visible="true" version="3" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2748936" lon="-47.9383492"/>
+ <node id="3243196993" visible="true" version="3" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2749070" lon="-47.9390359"/>
+ <node id="3243196995" visible="true" version="3" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2749472" lon="-47.9397011"/>
+ <node id="3243196997" visible="true" version="4" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2749445" lon="-47.9404038"/>
+ <node id="3243197000" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2749740" lon="-47.9410838"/>
+ <node id="3243197001" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2750156" lon="-47.9417543"/>
+ <node id="3243197003" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2750478" lon="-47.9425301"/>
+ <node id="3243197004" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:45Z" user="Roberlan" uid="566555" lat="-1.2750728" lon="-47.9432993"/>
+ <node id="3243197006" visible="true" version="3" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2751148" lon="-47.9440972"/>
+ <node id="3243197007" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2751215" lon="-47.9447691"/>
+ <node id="3243197010" visible="true" version="3" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2751631" lon="-47.9454705"/>
+ <node id="3243197011" visible="true" version="5" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2752422" lon="-47.9454598"/>
+ <node id="3243197020" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2755626" lon="-47.9270317"/>
+ <node id="3243197022" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2756766" lon="-47.9283178"/>
+ <node id="3243197023" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:45Z" user="Roberlan" uid="566555" lat="-1.2756486" lon="-47.9247291"/>
+ <node id="3243197027" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2757812" lon="-47.9296616"/>
+ <node id="3243197028" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2758120" lon="-47.9303294"/>
+ <node id="3243197031" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2758750" lon="-47.9317591"/>
+ <node id="3243197032" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2758991" lon="-47.9324672"/>
+ <node id="3243197034" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2759286" lon="-47.9330760"/>
+ <node id="3243197035" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2759474" lon="-47.9335052"/>
+ <node id="3243197036" visible="true" version="3" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2759327" lon="-47.9453619"/>
+ <node id="3243197037" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2759769" lon="-47.9341784"/>
+ <node id="3243197040" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2760205" lon="-47.9348138"/>
+ <node id="3243197042" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2760279" lon="-47.9355034"/>
+ <node id="3243197044" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2760574" lon="-47.9361820"/>
+ <node id="3243197045" visible="true" version="3" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2760842" lon="-47.9368472"/>
+ <node id="3243197050" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2761029" lon="-47.9375312"/>
+ <node id="3243197051" visible="true" version="3" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2761378" lon="-47.9382044"/>
+ <node id="3243197052" visible="true" version="3" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2761458" lon="-47.9388669"/>
+ <node id="3243197054" visible="true" version="3" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2761700" lon="-47.9395482"/>
+ <node id="3243197056" visible="true" version="3" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2762129" lon="-47.9402214"/>
+ <node id="3243197058" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2762075" lon="-47.9409269"/>
+ <node id="3243197059" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2762370" lon="-47.9415907"/>
+ <node id="3243197262" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2762638" lon="-47.9423860"/>
+ <node id="3243197267" visible="true" version="2" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2763067" lon="-47.9431571"/>
+ <node id="3243197269" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2763228" lon="-47.9439524"/>
+ <node id="3243197271" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2763684" lon="-47.9446162"/>
+ <node id="3243197276" visible="true" version="3" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2763966" lon="-47.9453069"/>
+ <node id="3243197278" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:46Z" user="Roberlan" uid="566555" lat="-1.2764611" lon="-47.9282543"/>
+ <node id="3243197283" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2765829" lon="-47.9296079"/>
+ <node id="3243197284" visible="true" version="4" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2766138" lon="-47.9452854"/>
+ <node id="3243197285" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2766232" lon="-47.9302973"/>
+ <node id="3243197286" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:46Z" user="Roberlan" uid="566555" lat="-1.2766211" lon="-47.9246891"/>
+ <node id="3243197288" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:46Z" user="Roberlan" uid="566555" lat="-1.2766471" lon="-47.9310202"/>
+ <node id="3243197307" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:46Z" user="Roberlan" uid="566555" lat="-1.2770982" lon="-47.9316963"/>
+ <node id="3243197309" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:46Z" user="Roberlan" uid="566555" lat="-1.2771087" lon="-47.9282311"/>
+ <node id="3243197311" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2771246" lon="-47.9324014"/>
+ <node id="3243197313" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2771702" lon="-47.9333322"/>
+ <node id="3243197315" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:46Z" user="Roberlan" uid="566555" lat="-1.2771857" lon="-47.9290781"/>
+ <node id="3243197316" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2771863" lon="-47.9340068"/>
+ <node id="3243197318" visible="true" version="3" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2772232" lon="-47.9346726"/>
+ <node id="3243197320" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:47Z" user="Roberlan" uid="566555" lat="-1.2772407" lon="-47.9353351"/>
+ <node id="3243197321" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:47Z" user="Roberlan" uid="566555" lat="-1.2772603" lon="-47.9246195"/>
+ <node id="3243197322" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2772667" lon="-47.9360184"/>
+ <node id="3243197323" visible="true" version="2" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2772654" lon="-47.9451849"/>
+ <node id="3243197326" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2773043" lon="-47.9367010"/>
+ <node id="3243197327" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:47Z" user="Roberlan" uid="566555" lat="-1.2773204" lon="-47.9373694"/>
+ <node id="3243197329" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:47Z" user="Roberlan" uid="566555" lat="-1.2773469" lon="-47.9380455"/>
+ <node id="3243197333" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2773807" lon="-47.9387127"/>
+ <node id="3243197335" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2774156" lon="-47.9393859"/>
+ <node id="3243197337" visible="true" version="3" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2774384" lon="-47.9400565"/>
+ <node id="3243197341" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2774464" lon="-47.9407552"/>
+ <node id="3243197343" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2774665" lon="-47.9414405"/>
+ <node id="3243197344" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2774799" lon="-47.9291908"/>
+ <node id="3243197345" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2775014" lon="-47.9295664"/>
+ <node id="3243197346" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2774947" lon="-47.9422277"/>
+ <node id="3243197347" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:47Z" user="Roberlan" uid="566555" lat="-1.2775172" lon="-47.9261830"/>
+ <node id="3243197348" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2775376" lon="-47.9302691"/>
+ <node id="3243197349" visible="true" version="2" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2775255" lon="-47.9429989"/>
+ <node id="3243197351" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:47Z" user="Roberlan" uid="566555" lat="-1.2775621" lon="-47.9282152"/>
+ <node id="3243197352" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2775697" lon="-47.9309557"/>
+ <node id="3243197353" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2775697" lon="-47.9437807"/>
+ <node id="3243197356" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2775992" lon="-47.9444540"/>
+ <node id="3243197357" visible="true" version="2" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2776274" lon="-47.9451433"/>
+ <node id="3243197360" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:47Z" user="Roberlan" uid="566555" lat="-1.2777434" lon="-47.9288438"/>
+ <node id="3243197473" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:47Z" user="Roberlan" uid="566555" lat="-1.2782901" lon="-47.9309342"/>
+ <node id="3243197475" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:47Z" user="Roberlan" uid="566555" lat="-1.2783110" lon="-47.9245216"/>
+ <node id="3243197477" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2783259" lon="-47.9316250"/>
+ <node id="3243197479" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:48Z" user="Roberlan" uid="566555" lat="-1.2783454" lon="-47.9255225"/>
+ <node id="3243197480" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2783528" lon="-47.9323438"/>
+ <node id="3243197481" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:48Z" user="Roberlan" uid="566555" lat="-1.2783673" lon="-47.9261593"/>
+ <node id="3243197483" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2783983" lon="-47.9331619"/>
+ <node id="3243197484" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:48Z" user="Roberlan" uid="566555" lat="-1.2783917" lon="-47.9268687"/>
+ <node id="3243197485" visible="true" version="2" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2783876" lon="-47.9450390"/>
+ <node id="3243197487" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2784171" lon="-47.9338700"/>
+ <node id="3243197488" visible="true" version="3" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2784446" lon="-47.9345191"/>
+ <node id="3243197490" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2784681" lon="-47.9351950"/>
+ <node id="3243197491" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2784714" lon="-47.9281589"/>
+ <node id="3243197492" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2784976" lon="-47.9358655"/>
+ <node id="3243197494" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2785029" lon="-47.9288281"/>
+ <node id="3243197496" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2785217" lon="-47.9365334"/>
+ <node id="3243197497" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2785485" lon="-47.9372200"/>
+ <node id="3243197499" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2785519" lon="-47.9302295"/>
+ <node id="3243197501" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2785861" lon="-47.9378933"/>
+ <node id="3243197504" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:48Z" user="Roberlan" uid="566555" lat="-1.2785903" lon="-47.9309180"/>
+ <node id="3243197505" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2786075" lon="-47.9385531"/>
+ <node id="3243197506" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2786316" lon="-47.9392397"/>
+ <node id="3243197507" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:48Z" user="Roberlan" uid="566555" lat="-1.2786476" lon="-47.9245150"/>
+ <node id="3243197508" visible="true" version="3" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2786611" lon="-47.9399130"/>
+ <node id="3243197510" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2786477" lon="-47.9405996"/>
+ <node id="3243197511" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2786853" lon="-47.9412903"/>
+ <node id="3243197512" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2787094" lon="-47.9420668"/>
+ <node id="3243197515" visible="true" version="2" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2787443" lon="-47.9428379"/>
+ <node id="3243197516" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2787738" lon="-47.9436319"/>
+ <node id="3243197518" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2787979" lon="-47.9442950"/>
+ <node id="3243197520" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:48Z" user="Roberlan" uid="566555" lat="-1.2789018" lon="-47.9200467"/>
+ <node id="3243197521" visible="true" version="2" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2789347" lon="-47.9449904"/>
+ <node id="3243197530" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:48Z" user="Roberlan" uid="566555" lat="-1.2793081" lon="-47.9254954"/>
+ <node id="3243197531" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:48Z" user="Roberlan" uid="566555" lat="-1.2793129" lon="-47.9255994"/>
+ <node id="3243197533" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:48Z" user="Roberlan" uid="566555" lat="-1.2793326" lon="-47.9246983"/>
+ <node id="3243197534" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:48Z" user="Roberlan" uid="566555" lat="-1.2793368" lon="-47.9261201"/>
+ <node id="3243197535" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:48Z" user="Roberlan" uid="566555" lat="-1.2793602" lon="-47.9268174"/>
+ <node id="3243197538" visible="true" version="2" changeset="48294995" timestamp="2017-04-30T23:56:41Z" user="patodiez" uid="1856060" lat="-1.2794194" lon="-47.9244071"/>
+ <node id="3243197539" visible="true" version="2" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2793744" lon="-47.9449394"/>
+ <node id="3243197540" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2794388" lon="-47.9287932"/>
+ <node id="3243197542" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2794845" lon="-47.9294913"/>
+ <node id="3243197545" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2795172" lon="-47.9301786"/>
+ <node id="3243197548" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2795876" lon="-47.9315834"/>
+ <node id="3243197551" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2796369" lon="-47.9323139"/>
+ <node id="3243197554" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2796761" lon="-47.9330284"/>
+ <node id="3243197558" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:49Z" user="Roberlan" uid="566555" lat="-1.2797608" lon="-47.9343557"/>
+ <node id="3243197663" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:49Z" user="Roberlan" uid="566555" lat="-1.2798144" lon="-47.9350233"/>
+ <node id="3243197665" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:49Z" user="Roberlan" uid="566555" lat="-1.2798677" lon="-47.9356863"/>
+ <node id="3243197668" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2799483" lon="-47.9363644"/>
+ <node id="3243197670" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2799952" lon="-47.9370283"/>
+ <node id="3243197672" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2800462" lon="-47.9376881"/>
+ <node id="3243197673" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2800314" lon="-47.9255471"/>
+ <node id="3243197675" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2800797" lon="-47.9267728"/>
+ <node id="3243197676" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2800984" lon="-47.9383734"/>
+ <node id="3243197679" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2801494" lon="-47.9280415"/>
+ <node id="3243197680" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2801534" lon="-47.9390399"/>
+ <node id="3243197683" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2802057" lon="-47.9294577"/>
+ <node id="3243197685" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2802057" lon="-47.9396997"/>
+ <node id="3243197687" visible="true" version="4" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2802540" lon="-47.9403884"/>
+ <node id="3243197688" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2802835" lon="-47.9308096"/>
+ <node id="3243197689" visible="true" version="2" changeset="76080351" timestamp="2019-10-23T05:51:42Z" user="PlazaBaquedano" uid="9225258" lat="-1.2803002" lon="-47.9410791"/>
+ <node id="3243197690" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:49Z" user="Roberlan" uid="566555" lat="-1.2803290" lon="-47.9414771"/>
+ <node id="3243197692" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:49Z" user="Roberlan" uid="566555" lat="-1.2803552" lon="-47.9418437"/>
+ <node id="3243197693" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:49Z" user="Roberlan" uid="566555" lat="-1.2803675" lon="-47.9420168"/>
+ <node id="3243197694" visible="true" version="2" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2804269" lon="-47.9426783"/>
+ <node id="3243197695" visible="true" version="2" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2804739" lon="-47.9434126"/>
+ <node id="3243197698" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:49Z" user="Roberlan" uid="566555" lat="-1.2804719" lon="-47.9211749"/>
+ <node id="3243197699" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:49Z" user="Roberlan" uid="566555" lat="-1.2804796" lon="-47.9435890"/>
+ <node id="3243197701" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:49Z" user="Roberlan" uid="566555" lat="-1.2805144" lon="-47.9440768"/>
+ <node id="3243197703" visible="true" version="2" changeset="48293023" timestamp="2017-04-30T21:23:21Z" user="patodiez" uid="1856060" lat="-1.2805154" lon="-47.9441885"/>
+ <node id="3243197706" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2805677" lon="-47.9224116"/>
+ <node id="3243197709" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2807353" lon="-47.9242395"/>
+ <node id="3243197711" visible="true" version="3" changeset="76376324" timestamp="2019-10-30T06:00:50Z" user="PlazaBaquedano" uid="9225258" lat="-1.2807903" lon="-47.9249221"/>
+ <node id="3243197713" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2808144" lon="-47.9254827"/>
+ <node id="3243197715" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2808734" lon="-47.9267058"/>
+ <node id="3243197716" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2809351" lon="-47.9279986"/>
+ <node id="3243197721" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2810906" lon="-47.9307720"/>
+ <node id="3243197723" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2811161" lon="-47.9315431"/>
+ <node id="3243197725" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2811456" lon="-47.9322526"/>
+ <node id="3243197726" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:50Z" user="Roberlan" uid="566555" lat="-1.2811570" lon="-47.9328470"/>
+ <node id="3243197728" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2812166" lon="-47.9335025"/>
+ <node id="3243197731" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:50Z" user="Roberlan" uid="566555" lat="-1.2812026" lon="-47.9414782"/>
+ <node id="3243197733" visible="true" version="2" changeset="74894605" timestamp="2019-09-25T08:17:06Z" user="CrocusHill" uid="9225350" lat="-1.2812475" lon="-47.9211469"/>
+ <node id="3243197734" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:50Z" user="Roberlan" uid="566555" lat="-1.2812514" lon="-47.9420211"/>
+ <node id="3243197737" visible="true" version="2" changeset="76028376" timestamp="2019-10-22T05:48:46Z" user="PlazaBaquedano" uid="9225258" lat="-1.2813027" lon="-47.9426655"/>
+ <node id="3243197739" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2813226" lon="-47.9223445"/>
+ <node id="3243197740" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2813333" lon="-47.9225859"/>
+ <node id="3243197742" visible="true" version="3" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2812718" lon="-47.9341895"/>
+ <node id="3243197743" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:50Z" user="Roberlan" uid="566555" lat="-1.2813847" lon="-47.9435038"/>
+ <node id="3243197746" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:50Z" user="Roberlan" uid="566555" lat="-1.2814088" lon="-47.9361942"/>
+ <node id="3243197747" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2814271" lon="-47.9241751"/>
+ <node id="3243197748" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2814446" lon="-47.9368499"/>
+ <node id="3243197750" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2814593" lon="-47.9250549"/>
+ <node id="3243197751" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2814768" lon="-47.9375231"/>
+ <node id="3243197752" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2815062" lon="-47.9381803"/>
+ <node id="3243197753" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2815357" lon="-47.9388562"/>
+ <node id="3243197755" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2815572" lon="-47.9395294"/>
+ <node id="3243197756" visible="true" version="3" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2815760" lon="-47.9402134"/>
+ <node id="3243197758" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2815813" lon="-47.9279611"/>
+ <node id="3243197759" visible="true" version="3" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2816108" lon="-47.9408839"/>
+ <node id="3243197760" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:50Z" user="Roberlan" uid="566555" lat="-1.2816036" lon="-47.9414667"/>
+ <node id="3243197861" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2816698" lon="-47.9293880"/>
+ <node id="3243197863" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:51Z" user="Roberlan" uid="566555" lat="-1.2816936" lon="-47.9182234"/>
+ <node id="3243197864" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:51Z" user="Roberlan" uid="566555" lat="-1.2817450" lon="-47.9307472"/>
+ <node id="3243197878" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:51Z" user="Roberlan" uid="566555" lat="-1.2822380" lon="-47.9426407"/>
+ <node id="3243197879" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2822356" lon="-47.9266387"/>
+ <node id="3243197882" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:51Z" user="Roberlan" uid="566555" lat="-1.2822870" lon="-47.9177708"/>
+ <node id="3243197884" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2823107" lon="-47.9279476"/>
+ <node id="3243197887" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2823670" lon="-47.9293290"/>
+ <node id="3243197888" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:51Z" user="Roberlan" uid="566555" lat="-1.2823703" lon="-47.9420206"/>
+ <node id="3243197891" visible="true" version="2" changeset="48293023" timestamp="2017-04-30T21:23:21Z" user="patodiez" uid="1856060" lat="-1.2825187" lon="-47.9414549"/>
+ <node id="3243197896" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2826405" lon="-47.9360184"/>
+ <node id="3243197898" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:51Z" user="Roberlan" uid="566555" lat="-1.2826670" lon="-47.9366812"/>
+ <node id="3243197899" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2826955" lon="-47.9373595"/>
+ <node id="3243197900" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:51Z" user="Roberlan" uid="566555" lat="-1.2827102" lon="-47.9380395"/>
+ <node id="3243197901" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:51Z" user="Roberlan" uid="566555" lat="-1.2827315" lon="-47.9387103"/>
+ <node id="3243197902" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:51Z" user="Roberlan" uid="566555" lat="-1.2827525" lon="-47.9393736"/>
+ <node id="3243197903" visible="true" version="2" changeset="76080351" timestamp="2019-10-23T05:51:42Z" user="PlazaBaquedano" uid="9225258" lat="-1.2827612" lon="-47.9400846"/>
+ <node id="3243197906" visible="true" version="2" changeset="76080351" timestamp="2019-10-23T05:51:42Z" user="PlazaBaquedano" uid="9225258" lat="-1.2827840" lon="-47.9407632"/>
+ <node id="3243197907" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:51Z" user="Roberlan" uid="566555" lat="-1.2828183" lon="-47.9414438"/>
+ <node id="3243197909" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:51Z" user="Roberlan" uid="566555" lat="-1.2828412" lon="-47.9171143"/>
+ <node id="3243197912" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2829315" lon="-47.9266119"/>
+ <node id="3243197916" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2829958" lon="-47.9278967"/>
+ <node id="3243197917" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2830803" lon="-47.9293035"/>
+ <node id="3243197919" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:51Z" user="Roberlan" uid="566555" lat="-1.2831538" lon="-47.9306632"/>
+ <node id="3243197921" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:51Z" user="Roberlan" uid="566555" lat="-1.2832213" lon="-47.9406618"/>
+ <node id="3243197926" visible="true" version="3" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2833525" lon="-47.9399921"/>
+ <node id="3243197928" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2834718" lon="-47.9392786"/>
+ <node id="3243197933" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2835777" lon="-47.9386041"/>
+ <node id="3243197934" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2836461" lon="-47.9265703"/>
+ <node id="3243197935" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2836743" lon="-47.9379053"/>
+ <node id="3243197936" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2837172" lon="-47.9278645"/>
+ <node id="3243197939" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:52Z" user="Roberlan" uid="566555" lat="-1.2837617" lon="-47.9162389"/>
+ <node id="3243197940" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2837869" lon="-47.9372267"/>
+ <node id="3243197941" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2837902" lon="-47.9292706"/>
+ <node id="3243197944" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:52Z" user="Roberlan" uid="566555" lat="-1.2838504" lon="-47.9306181"/>
+ <node id="3243197945" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2838767" lon="-47.9365227"/>
+ <node id="3243197952" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:52Z" user="Roberlan" uid="566555" lat="-1.2839708" lon="-47.9358515"/>
+ <node id="3243198061" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2843406" lon="-47.9265288"/>
+ <node id="3243198065" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2844077" lon="-47.9277974"/>
+ <node id="3243198067" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:52Z" user="Roberlan" uid="566555" lat="-1.2844189" lon="-47.9158242"/>
+ <node id="3243198068" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:52Z" user="Roberlan" uid="566555" lat="-1.2844910" lon="-47.9170413"/>
+ <node id="3243198070" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2845451" lon="-47.9305849"/>
+ <node id="3243198093" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2851324" lon="-47.9278048"/>
+ <node id="3243198097" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2851974" lon="-47.9292043"/>
+ <node id="3243198100" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:53Z" user="Roberlan" uid="566555" lat="-1.2852687" lon="-47.9305263"/>
+ <node id="3243198125" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2859616" lon="-47.9304998"/>
+ <node id="3243198214" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:54Z" user="Roberlan" uid="566555" lat="-1.2881751" lon="-47.9429611"/>
+ <node id="3243198230" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:55Z" user="Roberlan" uid="566555" lat="-1.2883567" lon="-47.9429474"/>
+ <node id="3243198256" visible="true" version="1" changeset="27576009" timestamp="2014-12-19T19:11:55Z" user="Roberlan" uid="566555" lat="-1.2888384" lon="-47.9429112"/>
+ <node id="3243198260" visible="true" version="2" changeset="76027655" timestamp="2019-10-22T05:21:52Z" user="PlazaBaquedano" uid="9225258" lat="-1.2889529" lon="-47.9429036"/>
+ <node id="3243806225" visible="true" version="1" changeset="27580967" timestamp="2014-12-20T00:37:27Z" user="Roberlan" uid="566555" lat="-1.2801820" lon="-47.9449498"/>
+ <node id="3761628973" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2814124" lon="-47.9307532"/>
+ <node id="3761628974" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2813333" lon="-47.9294001"/>
+ <node id="3761628975" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2756162" lon="-47.9276539"/>
+ <node id="3761628976" visible="true" version="3" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2739885" lon="-47.9277639"/>
+ <node id="3761628977" visible="true" version="1" changeset="34287011" timestamp="2015-09-27T16:40:14Z" user="patodiez" uid="1856060" lat="-1.2732599" lon="-47.9293017"/>
+ <node id="3761628978" visible="true" version="1" changeset="34287011" timestamp="2015-09-27T16:40:14Z" user="patodiez" uid="1856060" lat="-1.2716898" lon="-47.9294555"/>
+ <node id="3761628979" visible="true" version="2" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2719251" lon="-47.9294202"/>
+ <node id="3761628981" visible="true" version="2" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2722408" lon="-47.9282105"/>
+ <node id="3761628982" visible="true" version="2" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2723421" lon="-47.9293746"/>
+ <node id="3761628983" visible="true" version="1" changeset="34287011" timestamp="2015-09-27T16:40:14Z" user="patodiez" uid="1856060" lat="-1.2655654" lon="-47.9307832"/>
+ <node id="3761642754" visible="true" version="3" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2712574" lon="-47.9381682"/>
+ <node id="3761642755" visible="true" version="2" changeset="48293197" timestamp="2017-04-30T21:33:04Z" user="patodiez" uid="1856060" lat="-1.2703485" lon="-47.9382776"/>
+ <node id="3761645560" visible="true" version="2" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2851290" lon="-47.9432014"/>
+ <node id="3761645566" visible="true" version="3" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2714210" lon="-47.9395227"/>
+ <node id="3761645620" visible="true" version="2" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2735300" lon="-47.9442606"/>
+ <node id="4041714584" visible="true" version="1" changeset="37627235" timestamp="2016-03-05T13:12:45Z" user="dbusse" uid="149876" lat="-1.2721822" lon="-47.9314368"/>
+ <node id="4041714585" visible="true" version="1" changeset="37627235" timestamp="2016-03-05T13:12:45Z" user="dbusse" uid="149876" lat="-1.2733846" lon="-47.9313020"/>
+ <node id="4827827087" visible="true" version="1" changeset="48293023" timestamp="2017-04-30T21:23:12Z" user="patodiez" uid="1856060" lat="-1.2826345" lon="-47.9306968"/>
+ <node id="4827827099" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2815197" lon="-47.9385263"/>
+ <node id="4827827100" visible="true" version="1" changeset="48293023" timestamp="2017-04-30T21:23:12Z" user="patodiez" uid="1856060" lat="-1.2821123" lon="-47.9384614"/>
+ <node id="4827827101" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2811650" lon="-47.9324095"/>
+ <node id="4827827102" visible="true" version="1" changeset="48293023" timestamp="2017-04-30T21:23:12Z" user="patodiez" uid="1856060" lat="-1.2823178" lon="-47.9323811"/>
+ <node id="4827827103" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2799215" lon="-47.9360533"/>
+ <node id="4827827104" visible="true" version="2" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2800341" lon="-47.9359943"/>
+ <node id="4827827105" visible="true" version="2" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2800917" lon="-47.9359353"/>
+ <node id="4827827106" visible="true" version="2" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2801775" lon="-47.9358870"/>
+ <node id="4827827107" visible="true" version="1" changeset="48293023" timestamp="2017-04-30T21:23:12Z" user="patodiez" uid="1856060" lat="-1.2812720" lon="-47.9357481"/>
+ <node id="4827827108" visible="true" version="2" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2808171" lon="-47.9358105"/>
+ <node id="4827827109" visible="true" version="2" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2808520" lon="-47.9360774"/>
+ <node id="4827827110" visible="true" version="2" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2802848" lon="-47.9362209"/>
+ <node id="4827827111" visible="true" version="2" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2807883" lon="-47.9436701"/>
+ <node id="4827827112" visible="true" version="2" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2803592" lon="-47.9445314"/>
+ <node id="4827827113" visible="true" version="1" changeset="48293023" timestamp="2017-04-30T21:23:12Z" user="patodiez" uid="1856060" lat="-1.2802682" lon="-47.9447262"/>
+ <node id="4827827115" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2764596" lon="-47.9334167"/>
+ <node id="4827827116" visible="true" version="1" changeset="48293023" timestamp="2017-04-30T21:23:12Z" user="patodiez" uid="1856060" lat="-1.2764397" lon="-47.9329508"/>
+ <node id="4827827117" visible="true" version="2" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2742058" lon="-47.9298359"/>
+ <node id="4827827118" visible="true" version="2" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2741414" lon="-47.9290903"/>
+ <node id="4827827119" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2757383" lon="-47.9289615"/>
+ <node id="4827827120" visible="true" version="2" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2729776" lon="-47.9281280"/>
+ <node id="4827827121" visible="true" version="2" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2730554" lon="-47.9281481"/>
+ <node id="4827827122" visible="true" version="2" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2730896" lon="-47.9282031"/>
+ <node id="4827827123" visible="true" version="2" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2731517" lon="-47.9293048"/>
+ <node id="4827827124" visible="true" version="1" changeset="48293023" timestamp="2017-04-30T21:23:12Z" user="patodiez" uid="1856060" lat="-1.2727658" lon="-47.9293501"/>
+ <node id="4827827125" visible="true" version="2" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2726478" lon="-47.9281676"/>
+ <node id="4827827126" visible="true" version="3" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2731305" lon="-47.9285015"/>
+ <node id="4827827127" visible="true" version="2" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2736198" lon="-47.9298929"/>
+ <node id="4827827128" visible="true" version="3" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2734770" lon="-47.9284613"/>
+ <node id="4827827129" visible="true" version="5" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2733403" lon="-47.9271966"/>
+ <node id="4827827130" visible="true" version="3" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2719385" lon="-47.9339826"/>
+ <node id="4827832953" visible="true" version="1" changeset="48293197" timestamp="2017-04-30T21:33:02Z" user="patodiez" uid="1856060" lat="-1.2697786" lon="-47.9324034"/>
+ <node id="4827832954" visible="true" version="1" changeset="48293197" timestamp="2017-04-30T21:33:02Z" user="patodiez" uid="1856060" lat="-1.2697579" lon="-47.9317005"/>
+ <node id="4827832955" visible="true" version="2" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2697316" lon="-47.9310027"/>
+ <node id="4827832956" visible="true" version="1" changeset="48293197" timestamp="2017-04-30T21:33:02Z" user="patodiez" uid="1856060" lat="-1.2697023" lon="-47.9303309"/>
+ <node id="4827832959" visible="true" version="2" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2696867" lon="-47.9337707"/>
+ <node id="4827832964" visible="true" version="1" changeset="48293197" timestamp="2017-04-30T21:33:02Z" user="patodiez" uid="1856060" lat="-1.2705568" lon="-47.9395575"/>
+ <node id="4828690756" visible="true" version="2" changeset="76084627" timestamp="2019-10-23T07:18:02Z" user="PlazaBaquedano" uid="9225258" lat="-1.2884286" lon="-47.9429384"/>
+ <node id="4828690760" visible="true" version="1" changeset="48306870" timestamp="2017-05-01T12:56:03Z" user="patodiez" uid="1856060" lat="-1.2815923" lon="-47.9447098"/>
+ <node id="4844881130" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2717134" lon="-47.9296970"/>
+ <node id="4844881131" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2715618" lon="-47.9280128"/>
+ <node id="4844881132" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2731090" lon="-47.9278307"/>
+ <node id="4844881133" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2770237" lon="-47.9269413"/>
+ <node id="4844881134" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2775532" lon="-47.9269132"/>
+ <node id="4844881135" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2797149" lon="-47.9337023"/>
+ <node id="4844881136" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2793941" lon="-47.9281260"/>
+ <node id="4844881137" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2735160" lon="-47.9344816"/>
+ <node id="4844881138" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2728496" lon="-47.9345413"/>
+ <node id="4844881139" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2727886" lon="-47.9334296"/>
+ <node id="4844881144" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2830469" lon="-47.9326914"/>
+ <node id="4844881145" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2830469" lon="-47.9318906"/>
+ <node id="4844881146" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2837675" lon="-47.9312900"/>
+ <node id="4844881147" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2806050" lon="-47.9187370"/>
+ <node id="4844881148" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:03Z" user="M Aviz" uid="5781101" lat="-1.2786835" lon="-47.9192575"/>
+ <node id="4844888356" visible="true" version="1" changeset="48548874" timestamp="2017-05-10T03:08:35Z" user="M Aviz" uid="5781101" lat="-1.2813597" lon="-47.9355332"/>
+ <node id="4844888373" visible="true" version="1" changeset="48548874" timestamp="2017-05-10T03:08:36Z" user="M Aviz" uid="5781101" lat="-1.2712256" lon="-47.9252218"/>
+ <node id="4844888374" visible="true" version="1" changeset="48548874" timestamp="2017-05-10T03:08:36Z" user="M Aviz" uid="5781101" lat="-1.2772954" lon="-47.9252097"/>
+ <node id="4844888375" visible="true" version="1" changeset="48548874" timestamp="2017-05-10T03:08:36Z" user="M Aviz" uid="5781101" lat="-1.2793180" lon="-47.9251722"/>
+ <node id="4848268864" visible="true" version="1" changeset="48603721" timestamp="2017-05-11T20:17:23Z" user="M Aviz" uid="5781101" lat="-1.2738645" lon="-47.9316121">
+  <tag k="name" v="Novo Estrela"/>
+  <tag k="place" v="suburb"/>
+ </node>
+ <node id="5211546900" visible="true" version="1" changeset="53518485" timestamp="2017-11-05T04:54:58Z" user="M Aviz" uid="5781101" lat="-1.2625534" lon="-47.9310882">
+  <tag k="highway" v="bus_stop"/>
+  <tag k="name" v="Pq. dos Castanhais"/>
+ </node>
+ <node id="6352352187" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:52Z" user="Ivonilson" uid="9552245" lat="-1.2774748" lon="-47.9290894"/>
+ <node id="6352352188" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:52Z" user="Ivonilson" uid="9552245" lat="-1.2777084" lon="-47.9290788"/>
+ <node id="6352352189" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:52Z" user="Ivonilson" uid="9552245" lat="-1.2776839" lon="-47.9283311"/>
+ <node id="6352352190" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:52Z" user="Ivonilson" uid="9552245" lat="-1.2774571" lon="-47.9283409"/>
+ <node id="6352352191" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:52Z" user="Ivonilson" uid="9552245" lat="-1.2776343" lon="-47.9283532">
+  <tag k="leisure" v="pitch"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Rala Bucho"/>
+  <tag k="sport" v="soccer;football;futsal"/>
+  <tag k="surface" v="grass"/>
+ </node>
+ <node id="6352352192" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:52Z" user="Ivonilson" uid="9552245" lat="-1.2782114" lon="-47.9281011">
+  <tag k="addr:city" v="Castanhal"/>
+  <tag k="addr:street" v="Travessa Cônego Luiz Leitão"/>
+  <tag k="addr:suburb" v="Novo Estrela"/>
+  <tag k="leisure" v="sports_centre"/>
+  <tag k="name" v="Associação Cultural Nipo-Brasileira de Castanhal"/>
+  <tag k="sport" v="baseball;ping_pong"/>
+ </node>
+ <node id="6352352193" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:52Z" user="Ivonilson" uid="9552245" lat="-1.2785346" lon="-47.9287946"/>
+ <node id="6352352194" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2793800" lon="-47.9287539"/>
+ <node id="6352352195" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2793515" lon="-47.9281685"/>
+ <node id="6352352196" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2785061" lon="-47.9281888"/>
+ <node id="6352352197" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2785163" lon="-47.9282904">
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="name" v="Convento Sagrado Coração de Jesus"/>
+ </node>
+ <node id="6352352198" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2782689" lon="-47.9285122"/>
+ <node id="6352352199" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2782555" lon="-47.9282051"/>
+ <node id="6352352200" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2784365" lon="-47.9281943"/>
+ <node id="6352352201" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2784459" lon="-47.9285068"/>
+ <node id="6352352202" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2781630" lon="-47.9284491"/>
+ <node id="6352352203" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2781523" lon="-47.9282574"/>
+ <node id="6352352204" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2782448" lon="-47.9282520"/>
+ <node id="6352352205" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2782555" lon="-47.9284438"/>
+ <node id="6352352206" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2771812" lon="-47.9281535"/>
+ <node id="6352352207" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2770888" lon="-47.9270320"/>
+ <node id="6352352208" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2775755" lon="-47.9270166"/>
+ <node id="6352352209" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2776618" lon="-47.9281258"/>
+ <node id="6352352210" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245" lat="-1.2775570" lon="-47.9281597">
+  <tag k="addr:city" v="Castanhal"/>
+  <tag k="addr:street" v="Travessa Cônego Luiz Leitão"/>
+  <tag k="addr:suburb" v="Novo Estrela"/>
+  <tag k="amenity" v="school"/>
+  <tag k="name" v="Colégio Sagrado Coração de Jesus"/>
+ </node>
+ <node id="6418672790" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2813373" lon="-47.9350434"/>
+ <node id="6418672791" visible="true" version="2" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2798477" lon="-47.9352660"/>
+ <node id="6865915796" visible="true" version="1" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2724402" lon="-47.9421055"/>
+ <node id="6865915801" visible="true" version="2" changeset="75499803" timestamp="2019-10-10T09:09:40Z" user="SarekPark" uid="10278878" lat="-1.2718047" lon="-47.9421809"/>
+ <node id="6865915811" visible="true" version="1" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2726997" lon="-47.9420459"/>
+ <node id="6865915816" visible="true" version="1" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2737995" lon="-47.9449005"/>
+ <node id="6865915817" visible="true" version="1" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2737271" lon="-47.9449072"/>
+ <node id="6865915818" visible="true" version="1" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2736534" lon="-47.9449220"/>
+ <node id="6865915819" visible="true" version="1" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2735917" lon="-47.9449394"/>
+ <node id="6865915820" visible="true" version="1" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2735313" lon="-47.9444432"/>
+ <node id="6865915821" visible="true" version="1" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2735313" lon="-47.9445827"/>
+ <node id="6865915822" visible="true" version="1" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2735246" lon="-47.9448308"/>
+ <node id="6865915823" visible="true" version="1" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878" lat="-1.2745101" lon="-47.9437516"/>
+ <node id="6868632411" visible="true" version="2" changeset="75539536" timestamp="2019-10-11T02:16:14Z" user="SarekPark" uid="10278878" lat="-1.2731774" lon="-47.9455623"/>
+ <node id="6868663193" visible="true" version="1" changeset="75538839" timestamp="2019-10-11T01:38:11Z" user="SarekPark" uid="10278878" lat="-1.2735146" lon="-47.9449012"/>
+ <node id="6868716390" visible="true" version="1" changeset="75539536" timestamp="2019-10-11T02:16:14Z" user="SarekPark" uid="10278878" lat="-1.2731669" lon="-47.9456628"/>
+ <node id="6877224369" visible="true" version="1" changeset="75645428" timestamp="2019-10-14T07:20:09Z" user="SarekPark" uid="10278878" lat="-1.2683156" lon="-47.9452539"/>
+ <node id="6901416562" visible="true" version="1" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2737120" lon="-47.9249783"/>
+ <node id="6901416567" visible="true" version="1" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2654331" lon="-47.9314613"/>
+ <node id="6901416568" visible="true" version="1" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2664842" lon="-47.9313406"/>
+ <node id="6901416569" visible="true" version="1" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2677714" lon="-47.9312012"/>
+ <node id="6901416570" visible="true" version="1" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2702733" lon="-47.9309517"/>
+ <node id="6901416571" visible="true" version="1" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2714585" lon="-47.9308337"/>
+ <node id="6901416572" visible="true" version="1" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2727376" lon="-47.9306862"/>
+ <node id="6901416573" visible="true" version="1" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2738317" lon="-47.9305601"/>
+ <node id="6901416574" visible="true" version="1" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2751792" lon="-47.9304032"/>
+ <node id="6901416575" visible="true" version="1" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2747246" lon="-47.9290339"/>
+ <node id="6901416576" visible="true" version="1" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2747273" lon="-47.9277250"/>
+ <node id="6901416577" visible="true" version="1" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258" lat="-1.2748104" lon="-47.9283661"/>
+ <node id="6901416578" visible="true" version="2" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2733772" lon="-47.9275902"/>
+ <node id="6901510880" visible="true" version="1" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2735334" lon="-47.9344883"/>
+ <node id="6901510881" visible="true" version="1" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2735762" lon="-47.9357512"/>
+ <node id="6901510882" visible="true" version="1" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2738009" lon="-47.9418843"/>
+ <node id="6901510883" visible="true" version="1" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2728382" lon="-47.9399814"/>
+ <node id="6901510884" visible="true" version="1" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2719178" lon="-47.9335444"/>
+ <node id="6901566102" visible="true" version="1" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2731721" lon="-47.9272039"/>
+ <node id="6901566103" visible="true" version="1" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2730245" lon="-47.9281327"/>
+ <node id="6901566104" visible="true" version="1" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2730735" lon="-47.9281689"/>
+ <node id="6901566105" visible="true" version="1" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2731036" lon="-47.9282849"/>
+ <node id="6901566106" visible="true" version="1" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2731184" lon="-47.9283694"/>
+ <node id="6901566107" visible="true" version="1" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2731432" lon="-47.9288120"/>
+ <node id="6901566108" visible="true" version="1" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2731713" lon="-47.9291674"/>
+ <node id="6901566109" visible="true" version="1" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2731727" lon="-47.9292190"/>
+ <node id="6901566110" visible="true" version="1" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258" lat="-1.2731640" lon="-47.9292646"/>
+ <node id="6901851014" visible="true" version="1" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2733503" lon="-47.9273254"/>
+ <node id="6901851015" visible="true" version="1" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2734301" lon="-47.9280938"/>
+ <node id="6901851016" visible="true" version="1" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2734925" lon="-47.9286826"/>
+ <node id="6901851017" visible="true" version="1" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2735273" lon="-47.9289903"/>
+ <node id="6901851018" visible="true" version="1" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2735722" lon="-47.9294799"/>
+ <node id="6901851029" visible="true" version="1" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2661198" lon="-47.9327802"/>
+ <node id="6901851030" visible="true" version="1" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2660531" lon="-47.9307302"/>
+ <node id="6901851032" visible="true" version="1" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258" lat="-1.2727899" lon="-47.9334216"/>
+ <node id="6902076083" visible="true" version="1" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2651810" lon="-47.9342012"/>
+ <node id="6902076084" visible="true" version="1" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2672904" lon="-47.9340055"/>
+ <node id="6902104885" visible="true" version="1" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2678914" lon="-47.9339390"/>
+ <node id="6902104886" visible="true" version="1" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2689191" lon="-47.9338445"/>
+ <node id="6902104887" visible="true" version="1" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258" lat="-1.2701613" lon="-47.9337144"/>
+ <node id="6904633269" visible="true" version="1" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2755103" lon="-47.9432617"/>
+ <node id="6904633270" visible="true" version="1" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2778352" lon="-47.9429640"/>
+ <node id="6904633271" visible="true" version="1" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2793650" lon="-47.9427682"/>
+ <node id="6904633272" visible="true" version="1" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2800475" lon="-47.9426730"/>
+ <node id="6904633273" visible="true" version="1" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2802647" lon="-47.9426569"/>
+ <node id="6904633274" visible="true" version="1" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2808198" lon="-47.9426703"/>
+ <node id="6904633280" visible="true" version="1" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2820374" lon="-47.9434447"/>
+ <node id="6904633281" visible="true" version="1" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258" lat="-1.2827371" lon="-47.9434025"/>
+ <node id="6904633282" visible="true" version="2" changeset="76080351" timestamp="2019-10-23T05:51:42Z" user="PlazaBaquedano" uid="9225258" lat="-1.2875012" lon="-47.9430248"/>
+ <node id="6904633283" visible="true" version="2" changeset="76080351" timestamp="2019-10-23T05:51:42Z" user="PlazaBaquedano" uid="9225258" lat="-1.2879297" lon="-47.9429839"/>
+ <node id="6907689277" visible="true" version="2" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2801380" lon="-47.9448063"/>
+ <node id="6907713052" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2754916" lon="-47.9403341"/>
+ <node id="6907713053" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2767787" lon="-47.9401544"/>
+ <node id="6907713054" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2779103" lon="-47.9400069"/>
+ <node id="6907713055" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2796929" lon="-47.9404736"/>
+ <node id="6907713056" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2753856" lon="-47.9416980"/>
+ <node id="6907713057" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2767264" lon="-47.9415357"/>
+ <node id="6907713058" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2779559" lon="-47.9413828"/>
+ <node id="6907713059" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2794307" lon="-47.9411750"/>
+ <node id="6907713060" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2756229" lon="-47.9424664"/>
+ <node id="6907713061" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2768591" lon="-47.9423028"/>
+ <node id="6907713062" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2777682" lon="-47.9421848"/>
+ <node id="6907713063" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2793610" lon="-47.9419783"/>
+ <node id="6907713064" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2755921" lon="-47.9446994"/>
+ <node id="6907713065" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2770080" lon="-47.9445264"/>
+ <node id="6907713066" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2781530" lon="-47.9443735"/>
+ <node id="6907713067" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2793872" lon="-47.9442179"/>
+ <node id="6907713068" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2798719" lon="-47.9441582"/>
+ <node id="6907713069" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2756256" lon="-47.9440355"/>
+ <node id="6907713070" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2767720" lon="-47.9438746"/>
+ <node id="6907713071" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2780377" lon="-47.9437137"/>
+ <node id="6907713072" visible="true" version="1" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258" lat="-1.2797405" lon="-47.9435058"/>
+ <node id="6907797700" visible="true" version="1" changeset="76080351" timestamp="2019-10-23T05:51:42Z" user="PlazaBaquedano" uid="9225258" lat="-1.2824086" lon="-47.9407914"/>
+ <node id="6907797701" visible="true" version="1" changeset="76080351" timestamp="2019-10-23T05:51:42Z" user="PlazaBaquedano" uid="9225258" lat="-1.2830401" lon="-47.9407109"/>
+ <node id="6907797702" visible="true" version="1" changeset="76080351" timestamp="2019-10-23T05:51:42Z" user="PlazaBaquedano" uid="9225258" lat="-1.2831634" lon="-47.9406855"/>
+ <node id="6907853563" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2788247" lon="-47.9450017"/>
+ <node id="6907853564" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2796077" lon="-47.9448965"/>
+ <node id="6907853565" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2801876" lon="-47.9447886"/>
+ <node id="6907853566" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2802241" lon="-47.9447651"/>
+ <node id="6907853567" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2802580" lon="-47.9447356"/>
+ <node id="6907853568" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2802829" lon="-47.9447041"/>
+ <node id="6907853569" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2804531" lon="-47.9442960"/>
+ <node id="6907853570" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2804189" lon="-47.9443862"/>
+ <node id="6907853571" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2804750" lon="-47.9434307"/>
+ <node id="6907853580" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2804983" lon="-47.9440476"/>
+ <node id="6907853581" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2805603" lon="-47.9436312"/>
+ <node id="6907853582" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2805141" lon="-47.9436895"/>
+ <node id="6907853583" visible="true" version="2" changeset="76083111" timestamp="2019-10-23T06:53:40Z" user="PlazaBaquedano" uid="9225258" lat="-1.2805295" lon="-47.9437579"/>
+ <node id="6907853584" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2805556" lon="-47.9437780"/>
+ <node id="6907869385" visible="true" version="2" changeset="76083111" timestamp="2019-10-23T06:53:40Z" user="PlazaBaquedano" uid="9225258" lat="-1.2805778" lon="-47.9437881"/>
+ <node id="6907869386" visible="true" version="2" changeset="76083111" timestamp="2019-10-23T06:53:40Z" user="PlazaBaquedano" uid="9225258" lat="-1.2806106" lon="-47.9438002"/>
+ <node id="6907869387" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2806314" lon="-47.9436399"/>
+ <node id="6907869388" visible="true" version="2" changeset="76082886" timestamp="2019-10-23T06:50:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2806589" lon="-47.9436734"/>
+ <node id="6907869389" visible="true" version="3" changeset="76083111" timestamp="2019-10-23T06:53:40Z" user="PlazaBaquedano" uid="9225258" lat="-1.2806777" lon="-47.9437023"/>
+ <node id="6907869390" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2805087" lon="-47.9437358"/>
+ <node id="6907869391" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2805295" lon="-47.9436560"/>
+ <node id="6907869392" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2806012" lon="-47.9436184"/>
+ <node id="6907869393" visible="true" version="2" changeset="76082886" timestamp="2019-10-23T06:50:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2805650" lon="-47.9435749"/>
+ <node id="6907869394" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2804899" lon="-47.9436754"/>
+ <node id="6907869395" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2806660" lon="-47.9436024"/>
+ <node id="6907869396" visible="true" version="2" changeset="76083111" timestamp="2019-10-23T06:53:40Z" user="PlazaBaquedano" uid="9225258" lat="-1.2807018" lon="-47.9437472"/>
+ <node id="6907869397" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2804997" lon="-47.9438371"/>
+ <node id="6907869398" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2804970" lon="-47.9439343"/>
+ <node id="6907869399" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2804903" lon="-47.9441046"/>
+ <node id="6907869400" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258" lat="-1.2804755" lon="-47.9442199"/>
+ <node id="6907930877" visible="true" version="1" changeset="76083390" timestamp="2019-10-23T06:57:32Z" user="PlazaBaquedano" uid="9225258" lat="-1.2824845" lon="-47.9414489"/>
+ <node id="6907930878" visible="true" version="1" changeset="76083390" timestamp="2019-10-23T06:57:32Z" user="PlazaBaquedano" uid="9225258" lat="-1.2828223" lon="-47.9414351"/>
+ <node id="6928911184" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2796630" lon="-47.9327669"/>
+ <node id="6928936485" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2796976" lon="-47.9333731"/>
+ <node id="6928936486" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2797206" lon="-47.9337020"/>
+ <node id="6928936487" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2797512" lon="-47.9340376"/>
+ <node id="6928936488" visible="true" version="2" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2797673" lon="-47.9343474"/>
+ <node id="6928936489" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2798851" lon="-47.9356749"/>
+ <node id="6928936490" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2799603" lon="-47.9366434"/>
+ <node id="6928936491" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2800180" lon="-47.9373501"/>
+ <node id="6928936492" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2800743" lon="-47.9380354"/>
+ <node id="6928936493" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2801226" lon="-47.9386725"/>
+ <node id="6928936494" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2801695" lon="-47.9393283"/>
+ <node id="6928936495" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2802258" lon="-47.9400149"/>
+ <node id="6928936496" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2783045" lon="-47.9312146"/>
+ <node id="6928936497" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2783420" lon="-47.9319549"/>
+ <node id="6928936498" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2783742" lon="-47.9327408"/>
+ <node id="6928936499" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2784037" lon="-47.9335347"/>
+ <node id="6928936500" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2784278" lon="-47.9341704"/>
+ <node id="6928936501" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2784573" lon="-47.9348463"/>
+ <node id="6928936502" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2784815" lon="-47.9355115"/>
+ <node id="6928936503" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2785056" lon="-47.9361552"/>
+ <node id="6928936504" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2785324" lon="-47.9368982"/>
+ <node id="6928936505" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2785700" lon="-47.9375500"/>
+ <node id="6928936506" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2786021" lon="-47.9382446"/>
+ <node id="6928936507" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2786182" lon="-47.9389045"/>
+ <node id="6928936508" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2786450" lon="-47.9395536"/>
+ <node id="6928936509" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2770817" lon="-47.9313058"/>
+ <node id="6928936510" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2771246" lon="-47.9320139"/>
+ <node id="6928936511" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2771487" lon="-47.9328990"/>
+ <node id="6928936512" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2771782" lon="-47.9336272"/>
+ <node id="6928936513" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2771984" lon="-47.9342562"/>
+ <node id="6928936514" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2772305" lon="-47.9349549"/>
+ <node id="6928936515" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2772560" lon="-47.9356429"/>
+ <node id="6928936516" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2772801" lon="-47.9363591"/>
+ <node id="6928936517" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2773096" lon="-47.9370269"/>
+ <node id="6928936518" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2773338" lon="-47.9376948"/>
+ <node id="6928936519" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2773686" lon="-47.9383788"/>
+ <node id="6928936520" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2774008" lon="-47.9390547"/>
+ <node id="6928936521" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2774196" lon="-47.9397547"/>
+ <node id="6928936522" visible="true" version="1" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258" lat="-1.2761619" lon="-47.9392344"/>
+ <node id="6928941947" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2752475" lon="-47.9318208"/>
+ <node id="6928941948" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2764328" lon="-47.9317081"/>
+ <node id="6928941949" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2775590" lon="-47.9316598"/>
+ <node id="6928941950" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2786799" lon="-47.9316182"/>
+ <node id="6928941951" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2805054" lon="-47.9315498"/>
+ <node id="6928941952" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2752824" lon="-47.9331431"/>
+ <node id="6928941953" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2751832" lon="-47.9325342"/>
+ <node id="6928941954" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2764033" lon="-47.9324296"/>
+ <node id="6928941955" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2776100" lon="-47.9323813"/>
+ <node id="6928941956" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2788971" lon="-47.9323277"/>
+ <node id="6928941957" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2802727" lon="-47.9322848"/>
+ <node id="6928941958" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2740811" lon="-47.9337251"/>
+ <node id="6928941959" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2753307" lon="-47.9335803"/>
+ <node id="6928941960" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2776287" lon="-47.9332745"/>
+ <node id="6928941961" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2789293" lon="-47.9331136"/>
+ <node id="6928941962" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2803559" lon="-47.9329258"/>
+ <node id="6928941963" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2752743" lon="-47.9342549"/>
+ <node id="6928941964" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2762987" lon="-47.9341207"/>
+ <node id="6928941965" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2776971" lon="-47.9339491"/>
+ <node id="6928941966" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2789320" lon="-47.9337895"/>
+ <node id="6928941967" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2804430" lon="-47.9335937"/>
+ <node id="6928941968" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2727644" lon="-47.9351869"/>
+ <node id="6928941969" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2740489" lon="-47.9350877"/>
+ <node id="6928941970" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2752636" lon="-47.9349348"/>
+ <node id="6928941971" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2765293" lon="-47.9347631"/>
+ <node id="6928941972" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2779063" lon="-47.9345834"/>
+ <node id="6928941973" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2792169" lon="-47.9344118"/>
+ <node id="6928941974" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2802178" lon="-47.9342891"/>
+ <node id="6928941975" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2741964" lon="-47.9357475"/>
+ <node id="6928941976" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2754191" lon="-47.9355866"/>
+ <node id="6928941977" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2766419" lon="-47.9354203"/>
+ <node id="6928941978" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2777950" lon="-47.9352808"/>
+ <node id="6928941979" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2790620" lon="-47.9351158"/>
+ <node id="6928941980" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2740623" lon="-47.9364342"/>
+ <node id="6928941981" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2753843" lon="-47.9362518"/>
+ <node id="6928941982" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2765427" lon="-47.9361042"/>
+ <node id="6928941983" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2777440" lon="-47.9359594"/>
+ <node id="6928941984" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2791036" lon="-47.9357851"/>
+ <node id="6928948885" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2739550" lon="-47.9371221"/>
+ <node id="6928948886" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2754218" lon="-47.9369384"/>
+ <node id="6928948887" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2766017" lon="-47.9367869"/>
+ <node id="6928948888" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2777132" lon="-47.9366474"/>
+ <node id="6928948889" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2790942" lon="-47.9364637"/>
+ <node id="6928948890" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2805999" lon="-47.9362786"/>
+ <node id="6928948891" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2730594" lon="-47.9379147"/>
+ <node id="6928948892" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2741615" lon="-47.9377699"/>
+ <node id="6928948893" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2754191" lon="-47.9376170"/>
+ <node id="6928948894" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2766768" lon="-47.9374453"/>
+ <node id="6928948895" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2778594" lon="-47.9372978"/>
+ <node id="6928948896" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2791492" lon="-47.9371396"/>
+ <node id="6928948897" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2807232" lon="-47.9369491"/>
+ <node id="6928948898" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2819648" lon="-47.9367748"/>
+ <node id="6928948899" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2832332" lon="-47.9366165"/>
+ <node id="6928948900" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2740958" lon="-47.9384606"/>
+ <node id="6928948901" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2754259" lon="-47.9382916"/>
+ <node id="6928948902" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2767465" lon="-47.9381213"/>
+ <node id="6928948903" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2778862" lon="-47.9379818"/>
+ <node id="6928948904" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2792095" lon="-47.9378061"/>
+ <node id="6928948905" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2806616" lon="-47.9376197"/>
+ <node id="6928948906" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2817959" lon="-47.9374695"/>
+ <node id="6928948907" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2832975" lon="-47.9372844"/>
+ <node id="6928948908" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2742044" lon="-47.9391244"/>
+ <node id="6928948909" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2754004" lon="-47.9389688"/>
+ <node id="6928948910" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2767492" lon="-47.9387932"/>
+ <node id="6928948911" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2779733" lon="-47.9386416"/>
+ <node id="6928948912" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2794240" lon="-47.9384552"/>
+ <node id="6928948913" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2809525" lon="-47.9382634"/>
+ <node id="6928948914" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2820895" lon="-47.9381132"/>
+ <node id="6928948915" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2831929" lon="-47.9379778"/>
+ <node id="6928948916" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2743036" lon="-47.9397816"/>
+ <node id="6928948917" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2754916" lon="-47.9396367"/>
+ <node id="6928948918" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2767546" lon="-47.9394677"/>
+ <node id="6928948919" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2780068" lon="-47.9393122"/>
+ <node id="6928948920" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2792564" lon="-47.9391620"/>
+ <node id="6928948921" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2807688" lon="-47.9389501"/>
+ <node id="6928948922" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2819970" lon="-47.9387972"/>
+ <node id="6928948923" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2830991" lon="-47.9386738"/>
+ <node id="6928948924" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2793154" lon="-47.9398191"/>
+ <node id="6928948925" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2808546" lon="-47.9396287"/>
+ <node id="6928948926" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2821230" lon="-47.9394677"/>
+ <node id="6928948927" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2831259" lon="-47.9393390"/>
+ <node id="6928948928" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2820928" lon="-47.9360868"/>
+ <node id="6928948929" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2828946" lon="-47.9359869"/>
+ <node id="6928948930" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2838627" lon="-47.9358514"/>
+ <node id="6928948931" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2838211" lon="-47.9358555"/>
+ <node id="6928948932" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2837561" lon="-47.9358642"/>
+ <node id="6928948933" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2836180" lon="-47.9358809"/>
+ <node id="6928948934" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2838975" lon="-47.9358575"/>
+ <node id="6928948935" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2839223" lon="-47.9358649"/>
+ <node id="6928948936" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2839414" lon="-47.9358706"/>
+ <node id="6928948937" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2839511" lon="-47.9358756"/>
+ <node id="6928948938" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2839678" lon="-47.9358867"/>
+ <node id="6928948947" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2811349" lon="-47.9319193"/>
+ <node id="6928948948" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2811704" lon="-47.9328336"/>
+ <node id="6928948949" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2811985" lon="-47.9331914"/>
+ <node id="6928948950" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2812408" lon="-47.9338217"/>
+ <node id="6928948951" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2812805" lon="-47.9341587"/>
+ <node id="6928948952" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2812984" lon="-47.9344440"/>
+ <node id="6928948953" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2813812" lon="-47.9355332"/>
+ <node id="6928948954" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2814017" lon="-47.9358280"/>
+ <node id="6928948955" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2814245" lon="-47.9361807"/>
+ <node id="6928948956" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2814365" lon="-47.9364663"/>
+ <node id="6928948957" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2814607" lon="-47.9371583"/>
+ <node id="6928948958" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2814848" lon="-47.9378343"/>
+ <node id="6928948959" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2815357" lon="-47.9391700"/>
+ <node id="6928948960" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2815626" lon="-47.9398379"/>
+ <node id="6928948961" visible="true" version="1" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258" lat="-1.2815867" lon="-47.9405567"/>
+ <node id="6929260530" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2866439" lon="-47.9304550"/>
+ <node id="6929260540" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2852754" lon="-47.9305474"/>
+ <node id="6929260556" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2838584" lon="-47.9306248"/>
+ <node id="6929260570" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2813588" lon="-47.9230030"/>
+ <node id="6929260571" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2813923" lon="-47.9235502"/>
+ <node id="6929260572" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2814419" lon="-47.9246244"/>
+ <node id="6929260573" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2814821" lon="-47.9257107"/>
+ <node id="6929260574" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2815438" lon="-47.9272530"/>
+ <node id="6929260575" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2816162" lon="-47.9287255"/>
+ <node id="6929260576" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2816966" lon="-47.9300720"/>
+ <node id="6929260577" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2813534" lon="-47.9297957"/>
+ <node id="6929260578" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2813816" lon="-47.9302745"/>
+ <node id="6929260579" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2806026" lon="-47.9228193"/>
+ <node id="6929260580" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2806575" lon="-47.9234764"/>
+ <node id="6929260581" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2807501" lon="-47.9245158"/>
+ <node id="6929260582" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2808466" lon="-47.9260835"/>
+ <node id="6929260583" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2809056" lon="-47.9273549"/>
+ <node id="6929260584" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2809699" lon="-47.9286933"/>
+ <node id="6929264885" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2810423" lon="-47.9300693"/>
+ <node id="6929264886" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2800073" lon="-47.9250911"/>
+ <node id="6929264887" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2800502" lon="-47.9260299"/>
+ <node id="6929264888" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2801038" lon="-47.9273146"/>
+ <node id="6929264889" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2801735" lon="-47.9287899"/>
+ <node id="6929264890" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2802513" lon="-47.9301900"/>
+ <node id="6929264891" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2794075" lon="-47.9281112"/>
+ <node id="6929264892" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2794234" lon="-47.9284050"/>
+ <node id="6929264893" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2794555" lon="-47.9291043"/>
+ <node id="6929264894" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2794964" lon="-47.9297742"/>
+ <node id="6929264895" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2795378" lon="-47.9305926"/>
+ <node id="6929264896" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2795489" lon="-47.9307857"/>
+ <node id="6929264897" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2784842" lon="-47.9284137"/>
+ <node id="6929264898" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2785116" lon="-47.9291352"/>
+ <node id="6929264899" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2785358" lon="-47.9298715"/>
+ <node id="6929264900" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2785747" lon="-47.9305447"/>
+ <node id="6929264901" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2775201" lon="-47.9299164"/>
+ <node id="6929264902" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2775537" lon="-47.9305668"/>
+ <node id="6929264903" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2764100" lon="-47.9275051"/>
+ <node id="6929264904" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2764812" lon="-47.9282771"/>
+ <node id="6929264905" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2765307" lon="-47.9289562"/>
+ <node id="6929264906" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2766044" lon="-47.9299311"/>
+ <node id="6929264907" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2766366" lon="-47.9306513"/>
+ <node id="6929264908" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2755841" lon="-47.9272744"/>
+ <node id="6929264909" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2756431" lon="-47.9279463"/>
+ <node id="6929264910" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2757168" lon="-47.9286745"/>
+ <node id="6929264911" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2757597" lon="-47.9292914"/>
+ <node id="6929264912" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2757946" lon="-47.9299754"/>
+ <node id="6929264913" visible="true" version="1" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258" lat="-1.2758254" lon="-47.9306567"/>
+ <node id="6929405780" visible="true" version="1" changeset="76376324" timestamp="2019-10-30T06:00:50Z" user="PlazaBaquedano" uid="9225258" lat="-1.2793363" lon="-47.9246970"/>
+ <node id="6929447842" visible="true" version="1" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2799898" lon="-47.9360265"/>
+ <node id="6929447843" visible="true" version="1" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2801279" lon="-47.9359044"/>
+ <node id="6929447844" visible="true" version="1" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2808010" lon="-47.9361485"/>
+ <node id="6929447845" visible="true" version="1" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2808385" lon="-47.9361364"/>
+ <node id="6929447846" visible="true" version="1" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2808506" lon="-47.9361163"/>
+ <node id="6929447847" visible="true" version="1" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258" lat="-1.2808452" lon="-47.9360358"/>
+ <node id="7656609435" visible="true" version="1" changeset="87203860" timestamp="2020-06-26T16:32:39Z" user="DressyPear4" uid="3984659" lat="-1.2799883" lon="-47.9296253">
+  <tag k="communication:mobile_phone" v="yes"/>
+  <tag k="man_made" v="tower"/>
+  <tag k="tower:type" v="communication"/>
+ </node>
+ <way id="244471010" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:32:32Z" user="billypineda" uid="707059">
+  <nd ref="2517873888"/>
+  <nd ref="2517873874"/>
+  <nd ref="2517873879"/>
+  <nd ref="2517873896"/>
+  <nd ref="2517873877"/>
+  <nd ref="2517873892"/>
+  <nd ref="2517873855"/>
+  <nd ref="2517873865"/>
+  <nd ref="2517873885"/>
+  <nd ref="2517873868"/>
+  <nd ref="2517873871"/>
+  <nd ref="2517873899"/>
+  <nd ref="2517873888"/>
+  <tag k="leisure" v="pitch"/>
+  <tag k="name" v="Campo de Baseball"/>
+  <tag k="sport" v="baseball"/>
+ </way>
+ <way id="244471011" visible="true" version="2" changeset="18683471" timestamp="2013-11-02T21:46:18Z" user="billypineda" uid="707059">
+  <nd ref="2517873862"/>
+  <nd ref="2517873858"/>
+  <nd ref="2517873882"/>
+  <nd ref="2517873860"/>
+  <nd ref="2517873862"/>
+  <tag k="leisure" v="sports_centre"/>
+  <tag k="name" v="Associação Cultural Nipo-Brasileira de Castanhal"/>
+ </way>
+ <way id="244473531" visible="true" version="1" changeset="18683471" timestamp="2013-11-02T21:46:18Z" user="billypineda" uid="707059">
+  <nd ref="2517891623"/>
+  <nd ref="2517891624"/>
+  <nd ref="2517891621"/>
+  <nd ref="2517891625"/>
+  <nd ref="2517891623"/>
+  <tag k="building" v="yes"/>
+ </way>
+ <way id="244552650" visible="true" version="13" changeset="48582732" timestamp="2017-05-11T07:16:35Z" user="M Aviz" uid="5781101">
+  <nd ref="2518606900"/>
+  <nd ref="2518606886"/>
+  <nd ref="3243196094"/>
+  <nd ref="2518606902"/>
+  <nd ref="3243196156"/>
+  <nd ref="4827832954"/>
+  <nd ref="2518606893"/>
+  <nd ref="4041714584"/>
+  <nd ref="4041714585"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Primeiro de Maio"/>
+ </way>
+ <way id="317978886" visible="true" version="6" changeset="76082767" timestamp="2019-10-23T06:48:06Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="2519251216"/>
+  <nd ref="6907869395"/>
+  <nd ref="6907869392"/>
+  <nd ref="6907853581"/>
+  <nd ref="6907869391"/>
+  <nd ref="6907853582"/>
+  <nd ref="6907869390"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="317978899" visible="true" version="4" changeset="75538839" timestamp="2019-10-11T01:38:11Z" user="SarekPark" uid="10278878">
+  <nd ref="3243196723"/>
+  <nd ref="6868663193"/>
+  <nd ref="6865915822"/>
+  <nd ref="6865915821"/>
+  <nd ref="6865915820"/>
+  <nd ref="3761645620"/>
+  <tag k="highway" v="path"/>
+ </way>
+ <way id="317978909" visible="true" version="3" changeset="79945348" timestamp="2020-01-23T02:36:37Z" user="natureandchill" uid="9565120">
+  <nd ref="3243197888"/>
+  <nd ref="3243197734"/>
+  <nd ref="3243197693"/>
+  <tag k="alt_name" v="Travessa 8"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Oito"/>
+ </way>
+ <way id="317978921" visible="true" version="4" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197933"/>
+  <nd ref="6928948923"/>
+  <nd ref="3243197901"/>
+  <nd ref="6928948922"/>
+  <nd ref="3243197753"/>
+  <nd ref="6928948921"/>
+  <nd ref="3243197680"/>
+  <nd ref="6928948920"/>
+  <nd ref="3243197506"/>
+  <nd ref="6928948919"/>
+  <nd ref="3243197335"/>
+  <nd ref="6928948918"/>
+  <nd ref="3243197054"/>
+  <nd ref="6928948917"/>
+  <nd ref="3243196995"/>
+  <nd ref="6928948916"/>
+  <nd ref="3243196739"/>
+  <nd ref="6901510883"/>
+  <nd ref="3243196684"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Paraguai"/>
+ </way>
+ <way id="317978922" visible="true" version="3" changeset="76028315" timestamp="2019-10-22T05:46:28Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197878"/>
+  <nd ref="3243197737"/>
+  <nd ref="6904633274"/>
+  <nd ref="3243197694"/>
+  <nd ref="6904633273"/>
+  <nd ref="6904633272"/>
+  <nd ref="6904633271"/>
+  <nd ref="3243197515"/>
+  <nd ref="6904633270"/>
+  <nd ref="3243197349"/>
+  <nd ref="3243197267"/>
+  <nd ref="6904633269"/>
+  <nd ref="3243197004"/>
+  <nd ref="3243196970"/>
+  <nd ref="3243196749"/>
+  <nd ref="3243196712"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Manoel Clóvis Soares"/>
+ </way>
+ <way id="317978925" visible="true" version="4" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197945"/>
+  <nd ref="6928948899"/>
+  <nd ref="3243197898"/>
+  <nd ref="6928948898"/>
+  <nd ref="3243197748"/>
+  <nd ref="6928948897"/>
+  <nd ref="3243197670"/>
+  <nd ref="6928948896"/>
+  <nd ref="3243197497"/>
+  <nd ref="6928948895"/>
+  <nd ref="3243197327"/>
+  <nd ref="6928948894"/>
+  <nd ref="3243197050"/>
+  <nd ref="6928948893"/>
+  <nd ref="3243196990"/>
+  <nd ref="6928948892"/>
+  <nd ref="3243196733"/>
+  <nd ref="6928948891"/>
+  <nd ref="3243196670"/>
+  <nd ref="3761642754"/>
+  <nd ref="3761642755"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Dinamarca"/>
+ </way>
+ <way id="317978927" visible="true" version="4" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197928"/>
+  <nd ref="6928948927"/>
+  <nd ref="3243197902"/>
+  <nd ref="6928948926"/>
+  <nd ref="3243197755"/>
+  <nd ref="6928948925"/>
+  <nd ref="3243197685"/>
+  <nd ref="6928948924"/>
+  <nd ref="3243197508"/>
+  <nd ref="6907713054"/>
+  <nd ref="3243197337"/>
+  <nd ref="6907713053"/>
+  <nd ref="3243197056"/>
+  <nd ref="6907713052"/>
+  <nd ref="3243196997"/>
+  <nd ref="3243196742"/>
+  <nd ref="3243196689"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Uruguai"/>
+ </way>
+ <way id="317978930" visible="true" version="5" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="4827832964"/>
+  <nd ref="3761645566"/>
+  <nd ref="3243196678"/>
+  <nd ref="3243196736"/>
+  <nd ref="6928948908"/>
+  <nd ref="3243196993"/>
+  <nd ref="6928948909"/>
+  <nd ref="3243197052"/>
+  <nd ref="6928948910"/>
+  <nd ref="3243197333"/>
+  <nd ref="6928948911"/>
+  <nd ref="3243197505"/>
+  <nd ref="6928948912"/>
+  <nd ref="3243197676"/>
+  <nd ref="6928948913"/>
+  <nd ref="3243197752"/>
+  <nd ref="6928948914"/>
+  <nd ref="3243197900"/>
+  <nd ref="6928948915"/>
+  <nd ref="3243197935"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Argentina"/>
+ </way>
+ <way id="317978932" visible="true" version="3" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197940"/>
+  <nd ref="6928948907"/>
+  <nd ref="3243197899"/>
+  <nd ref="6928948906"/>
+  <nd ref="3243197751"/>
+  <nd ref="6928948905"/>
+  <nd ref="3243197672"/>
+  <nd ref="6928948904"/>
+  <nd ref="3243197501"/>
+  <nd ref="6928948903"/>
+  <nd ref="3243197329"/>
+  <nd ref="6928948902"/>
+  <nd ref="3243197051"/>
+  <nd ref="6928948901"/>
+  <nd ref="3243196991"/>
+  <nd ref="6928948900"/>
+  <nd ref="3243196735"/>
+  <nd ref="3243196673"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Colombia"/>
+ </way>
+ <way id="317978937" visible="true" version="3" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197926"/>
+  <nd ref="3243197903"/>
+  <nd ref="3243197756"/>
+  <nd ref="3243197687"/>
+  <nd ref="6907713055"/>
+  <nd ref="3243197510"/>
+  <nd ref="3243197341"/>
+  <nd ref="3243197058"/>
+  <nd ref="3243197000"/>
+  <nd ref="3243196743"/>
+  <nd ref="3243196691"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Venezuela"/>
+ </way>
+ <way id="317978940" visible="true" version="3" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6928948938"/>
+  <nd ref="6928948937"/>
+  <nd ref="6928948936"/>
+  <nd ref="6928948935"/>
+  <nd ref="6928948934"/>
+  <nd ref="6928948930"/>
+  <nd ref="6928948931"/>
+  <nd ref="6928948932"/>
+  <nd ref="6928948933"/>
+  <nd ref="6928948929"/>
+  <nd ref="3243197896"/>
+  <nd ref="6928948928"/>
+  <nd ref="6928948955"/>
+  <nd ref="6928948890"/>
+  <nd ref="3243197668"/>
+  <nd ref="6928948889"/>
+  <nd ref="3243197496"/>
+  <nd ref="6928948888"/>
+  <nd ref="3243197326"/>
+  <nd ref="6928948887"/>
+  <nd ref="3243197045"/>
+  <nd ref="6928948886"/>
+  <nd ref="3243196989"/>
+  <nd ref="6928948885"/>
+  <nd ref="3243196732"/>
+  <nd ref="3243196667"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Mil Novecentos e Setenta e Três"/>
+ </way>
+ <way id="317978969" visible="true" version="4" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197545"/>
+  <nd ref="3243197499"/>
+  <nd ref="3243197348"/>
+  <nd ref="3243197285"/>
+  <nd ref="3243197028"/>
+  <nd ref="6901416574"/>
+  <nd ref="3243196974"/>
+  <nd ref="6901416573"/>
+  <nd ref="3243196717"/>
+  <nd ref="6901416572"/>
+  <nd ref="3243196460"/>
+  <nd ref="6901416571"/>
+  <nd ref="3243196412"/>
+  <nd ref="6901416570"/>
+  <nd ref="4827832955"/>
+  <nd ref="3243196155"/>
+  <nd ref="6901416569"/>
+  <nd ref="3243196117"/>
+  <nd ref="6901416568"/>
+  <nd ref="3243196092"/>
+  <nd ref="6901416567"/>
+  <nd ref="3243196061"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alameda Abolição"/>
+ </way>
+ <way id="317978976" visible="true" version="5" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197698"/>
+  <nd ref="3243197706"/>
+  <nd ref="6929260579"/>
+  <nd ref="6929260580"/>
+  <nd ref="3243197709"/>
+  <nd ref="6929260581"/>
+  <nd ref="3243197711"/>
+  <nd ref="3243197713"/>
+  <nd ref="6929260582"/>
+  <nd ref="3243197715"/>
+  <nd ref="6929260583"/>
+  <nd ref="3243197716"/>
+  <nd ref="6929260584"/>
+  <nd ref="2519069103"/>
+  <nd ref="6929264885"/>
+  <nd ref="3243197721"/>
+  <nd ref="3243197723"/>
+  <nd ref="6928948947"/>
+  <nd ref="3243197725"/>
+  <nd ref="4827827101"/>
+  <nd ref="6928948948"/>
+  <nd ref="6928948949"/>
+  <nd ref="3243197728"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Ceará"/>
+ </way>
+ <way id="317978978" visible="true" version="6" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6907853571"/>
+  <nd ref="6907713072"/>
+  <nd ref="3243197516"/>
+  <nd ref="6907713071"/>
+  <nd ref="3243197353"/>
+  <nd ref="6907713070"/>
+  <nd ref="3243197269"/>
+  <nd ref="6907713069"/>
+  <nd ref="3243197006"/>
+  <nd ref="3243196972"/>
+  <nd ref="3243196751"/>
+  <nd ref="3761645620"/>
+  <nd ref="3243196709"/>
+  <nd ref="3243196664"/>
+  <nd ref="3243196421"/>
+  <nd ref="3243196413"/>
+  <nd ref="3243196149"/>
+  <nd ref="6877224369"/>
+  <nd ref="3243196136"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Antônio Rocha Filho"/>
+ </way>
+ <way id="317978982" visible="true" version="8" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="4827827117"/>
+  <nd ref="4827827118"/>
+  <nd ref="3243196968"/>
+  <nd ref="3761628976"/>
+  <nd ref="3243196752"/>
+  <nd ref="6901416562"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Rua Princesa Izabel"/>
+ </way>
+ <way id="317978984" visible="true" version="5" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197723"/>
+  <nd ref="6928941951"/>
+  <nd ref="3243197548"/>
+  <nd ref="6928941950"/>
+  <nd ref="3243197477"/>
+  <nd ref="6928941949"/>
+  <nd ref="3243197307"/>
+  <nd ref="6928941948"/>
+  <nd ref="3243197031"/>
+  <nd ref="6928941947"/>
+  <nd ref="3243196976"/>
+  <nd ref="3243196719"/>
+  <nd ref="3243196662"/>
+  <nd ref="3243196415"/>
+  <nd ref="4827832953"/>
+  <nd ref="3243196157"/>
+  <nd ref="3243196137"/>
+  <nd ref="3243196119"/>
+  <nd ref="6901851029"/>
+  <nd ref="3243196066"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Normando Lima"/>
+ </way>
+ <way id="317978987" visible="true" version="6" changeset="76080351" timestamp="2019-10-23T05:51:42Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6865915801"/>
+  <nd ref="6865915796"/>
+  <nd ref="6865915811"/>
+  <nd ref="3243196715"/>
+  <nd ref="6901510882"/>
+  <nd ref="3243196965"/>
+  <nd ref="3243197001"/>
+  <nd ref="6907713056"/>
+  <nd ref="3243197059"/>
+  <nd ref="6907713057"/>
+  <nd ref="3243197343"/>
+  <nd ref="6907713058"/>
+  <nd ref="3243197511"/>
+  <nd ref="6907713059"/>
+  <nd ref="3243197689"/>
+  <nd ref="3243197759"/>
+  <nd ref="6907797700"/>
+  <nd ref="3243197906"/>
+  <nd ref="6907797701"/>
+  <nd ref="6907797702"/>
+  <nd ref="3243197921"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Dino Souza"/>
+ </way>
+ <way id="317978990" visible="true" version="5" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197034"/>
+  <nd ref="6928941952"/>
+  <nd ref="3243196980"/>
+  <nd ref="3243196722"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Sessenta e Sete"/>
+ </way>
+ <way id="317979056" visible="true" version="2" changeset="63875464" timestamp="2018-10-25T17:13:32Z" user="Angelo Batalha" uid="8540443">
+  <nd ref="3243197315"/>
+  <nd ref="3243197309"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alameda Maravilhosa"/>
+ </way>
+ <way id="317979104" visible="true" version="9" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="4827827126"/>
+  <nd ref="4827827128"/>
+  <nd ref="3243196968"/>
+  <nd ref="6901416577"/>
+  <nd ref="3243197022"/>
+  <nd ref="6929264904"/>
+  <nd ref="3243197309"/>
+  <nd ref="3243197351"/>
+  <nd ref="3243197491"/>
+  <nd ref="6929264891"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Cônego Luiz Leitão"/>
+ </way>
+ <way id="317979107" visible="true" version="4" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6907853563"/>
+  <nd ref="3243197518"/>
+  <nd ref="3243197516"/>
+  <nd ref="3243197515"/>
+  <nd ref="3243197512"/>
+  <nd ref="3243197511"/>
+  <nd ref="3243197510"/>
+  <nd ref="3243197508"/>
+  <nd ref="6928936508"/>
+  <nd ref="3243197506"/>
+  <nd ref="6928936507"/>
+  <nd ref="3243197505"/>
+  <nd ref="6928936506"/>
+  <nd ref="3243197501"/>
+  <nd ref="6928936505"/>
+  <nd ref="3243197497"/>
+  <nd ref="6928936504"/>
+  <nd ref="3243197496"/>
+  <nd ref="6928936503"/>
+  <nd ref="3243197492"/>
+  <nd ref="6928936502"/>
+  <nd ref="3243197490"/>
+  <nd ref="6928936501"/>
+  <nd ref="3243197488"/>
+  <nd ref="6928936500"/>
+  <nd ref="3243197487"/>
+  <nd ref="6928936499"/>
+  <nd ref="3243197483"/>
+  <nd ref="6928936498"/>
+  <nd ref="3243197480"/>
+  <nd ref="6928936497"/>
+  <nd ref="3243197477"/>
+  <nd ref="6928936496"/>
+  <nd ref="3243197473"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alameda Ozino de Moraes"/>
+ </way>
+ <way id="317979108" visible="true" version="3" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="2518606904"/>
+  <nd ref="6928936509"/>
+  <nd ref="3243197307"/>
+  <nd ref="6928936510"/>
+  <nd ref="3243197311"/>
+  <nd ref="6928936511"/>
+  <nd ref="3243197313"/>
+  <nd ref="6928936512"/>
+  <nd ref="3243197316"/>
+  <nd ref="6928936513"/>
+  <nd ref="3243197318"/>
+  <nd ref="6928936514"/>
+  <nd ref="3243197320"/>
+  <nd ref="6928936515"/>
+  <nd ref="3243197322"/>
+  <nd ref="6928936516"/>
+  <nd ref="3243197326"/>
+  <nd ref="6928936517"/>
+  <nd ref="3243197327"/>
+  <nd ref="6928936518"/>
+  <nd ref="3243197329"/>
+  <nd ref="6928936519"/>
+  <nd ref="3243197333"/>
+  <nd ref="6928936520"/>
+  <nd ref="3243197335"/>
+  <nd ref="6928936521"/>
+  <nd ref="3243197337"/>
+  <nd ref="3243197341"/>
+  <nd ref="3243197343"/>
+  <nd ref="3243197346"/>
+  <nd ref="3243197349"/>
+  <nd ref="3243197353"/>
+  <nd ref="3243197356"/>
+  <nd ref="3243197357"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Santa Clara"/>
+ </way>
+ <way id="317979109" visible="true" version="3" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197276"/>
+  <nd ref="3243197271"/>
+  <nd ref="3243197269"/>
+  <nd ref="3243197267"/>
+  <nd ref="3243197262"/>
+  <nd ref="3243197059"/>
+  <nd ref="3243197058"/>
+  <nd ref="3243197056"/>
+  <nd ref="3243197054"/>
+  <nd ref="6928936522"/>
+  <nd ref="3243197052"/>
+  <nd ref="3243197051"/>
+  <nd ref="3243197050"/>
+  <nd ref="3243197045"/>
+  <nd ref="3243197044"/>
+  <nd ref="3243197042"/>
+  <nd ref="3243197040"/>
+  <nd ref="3243197037"/>
+  <nd ref="3243197035"/>
+  <nd ref="3243197034"/>
+  <nd ref="3243197032"/>
+  <nd ref="3243197031"/>
+  <nd ref="2518606888"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Almeda Osasco"/>
+ </way>
+ <way id="317979111" visible="true" version="2" changeset="41273151" timestamp="2016-08-05T20:35:40Z" user="Eric Belo" uid="4255608">
+  <nd ref="2519069093"/>
+  <nd ref="3243196974"/>
+  <nd ref="2518606921"/>
+  <nd ref="3243196976"/>
+  <nd ref="3243196977"/>
+  <nd ref="3243196980"/>
+  <nd ref="3243196982"/>
+  <nd ref="3243196983"/>
+  <nd ref="3243196984"/>
+  <nd ref="3243196986"/>
+  <nd ref="3243196987"/>
+  <nd ref="3243196989"/>
+  <nd ref="3243196990"/>
+  <nd ref="3243196991"/>
+  <nd ref="3243196993"/>
+  <nd ref="3243196995"/>
+  <nd ref="3243196997"/>
+  <nd ref="3243197000"/>
+  <nd ref="3243197001"/>
+  <nd ref="3243197003"/>
+  <nd ref="3243197004"/>
+  <nd ref="3243197006"/>
+  <nd ref="3243197007"/>
+  <nd ref="3243197010"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Almeda Liliane Souza"/>
+ </way>
+ <way id="317979143" visible="true" version="2" changeset="41374888" timestamp="2016-08-10T20:06:34Z" user="Eric Belo" uid="4255608">
+  <nd ref="3243197534"/>
+  <nd ref="3243197481"/>
+  <nd ref="3243197347"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alameda Juta"/>
+ </way>
+ <way id="317979152" visible="true" version="2" changeset="63875438" timestamp="2018-10-25T17:12:39Z" user="Angelo Batalha" uid="8540443">
+  <nd ref="3243197540"/>
+  <nd ref="3243197494"/>
+  <nd ref="3243197360"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alameda Esperança"/>
+ </way>
+ <way id="317979175" visible="true" version="8" changeset="76376324" timestamp="2019-10-30T06:00:50Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6929405780"/>
+  <nd ref="4844888375"/>
+  <nd ref="3243197530"/>
+  <nd ref="3243197531"/>
+  <nd ref="3243197534"/>
+  <nd ref="3243197535"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Rua Kazumo Oyama"/>
+ </way>
+ <way id="317979182" visible="true" version="2" changeset="41374888" timestamp="2016-08-10T20:06:34Z" user="Eric Belo" uid="4255608">
+  <nd ref="3243197484"/>
+  <nd ref="3243197481"/>
+  <nd ref="3243197479"/>
+  <nd ref="3243197475"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alameda Janjão"/>
+ </way>
+ <way id="317979188" visible="true" version="3" changeset="75496992" timestamp="2019-10-10T08:11:06Z" user="SarekPark" uid="10278878">
+  <nd ref="3243196972"/>
+  <nd ref="6865915823"/>
+  <nd ref="3243196970"/>
+  <nd ref="3243196967"/>
+  <nd ref="3243196965"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alameda Osasco"/>
+ </way>
+ <way id="317979191" visible="true" version="2" changeset="79945333" timestamp="2020-01-23T02:36:14Z" user="natureandchill" uid="9565120">
+  <nd ref="3243197743"/>
+  <nd ref="3243197737"/>
+  <nd ref="3243197734"/>
+  <nd ref="3243197731"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alameda Cicero Lima"/>
+ </way>
+ <way id="317979215" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197344"/>
+  <nd ref="3243197345"/>
+  <nd ref="6929264901"/>
+  <nd ref="3243197348"/>
+  <nd ref="6929264902"/>
+  <nd ref="3243197352"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alameda Tolêdo"/>
+ </way>
+ <way id="317979231" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197504"/>
+  <nd ref="6929264900"/>
+  <nd ref="3243197499"/>
+  <nd ref="6929264899"/>
+  <nd ref="2519069099"/>
+  <nd ref="6929264898"/>
+  <nd ref="3243197494"/>
+  <nd ref="6929264897"/>
+  <nd ref="3243197491"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alameda Pinheiros"/>
+ </way>
+ <way id="317979235" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="2518107963"/>
+  <nd ref="6929264903"/>
+  <nd ref="6929264904"/>
+  <nd ref="6929264905"/>
+  <nd ref="3243197283"/>
+  <nd ref="6929264906"/>
+  <nd ref="3243197285"/>
+  <nd ref="6929264907"/>
+  <nd ref="3243197288"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alameda Santa Clara"/>
+ </way>
+ <way id="317979243" visible="true" version="5" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197020"/>
+  <nd ref="6929264908"/>
+  <nd ref="3761628975"/>
+  <nd ref="6929264909"/>
+  <nd ref="3243197022"/>
+  <nd ref="6929264910"/>
+  <nd ref="4827827119"/>
+  <nd ref="6929264911"/>
+  <nd ref="3243197027"/>
+  <nd ref="6929264912"/>
+  <nd ref="3243197028"/>
+  <nd ref="6929264913"/>
+  <nd ref="2518606888"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Almeda Osasco"/>
+ </way>
+ <way id="317979270" visible="true" version="4" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6928936489"/>
+  <nd ref="6928941984"/>
+  <nd ref="3243197492"/>
+  <nd ref="6928941983"/>
+  <nd ref="3243197322"/>
+  <nd ref="6928941982"/>
+  <nd ref="3243197044"/>
+  <nd ref="6928941981"/>
+  <nd ref="3243196987"/>
+  <nd ref="6928941980"/>
+  <nd ref="3243196731"/>
+  <nd ref="3243196661"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Holanda"/>
+ </way>
+ <way id="317979277" visible="true" version="4" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243196730"/>
+  <nd ref="6928941975"/>
+  <nd ref="3243196986"/>
+  <nd ref="6928941976"/>
+  <nd ref="3243197042"/>
+  <nd ref="6928941977"/>
+  <nd ref="3243197320"/>
+  <nd ref="6928941978"/>
+  <nd ref="3243197490"/>
+  <nd ref="6928941979"/>
+  <nd ref="3243197663"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa França"/>
+ </way>
+ <way id="317979286" visible="true" version="6" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6901510880"/>
+  <nd ref="3243196983"/>
+  <nd ref="6928941963"/>
+  <nd ref="3243197037"/>
+  <nd ref="6928941964"/>
+  <nd ref="3243197316"/>
+  <nd ref="6928941965"/>
+  <nd ref="3243197487"/>
+  <nd ref="6928941966"/>
+  <nd ref="6928936486"/>
+  <nd ref="6928941967"/>
+  <nd ref="3243197728"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Itália"/>
+ </way>
+ <way id="317979291" visible="true" version="4" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6928948948"/>
+  <nd ref="6928941962"/>
+  <nd ref="3243197554"/>
+  <nd ref="6928941961"/>
+  <nd ref="3243197483"/>
+  <nd ref="6928941960"/>
+  <nd ref="3243197313"/>
+  <nd ref="4827827115"/>
+  <nd ref="3243197035"/>
+  <nd ref="6928941959"/>
+  <nd ref="3243196982"/>
+  <nd ref="6928941958"/>
+  <nd ref="3243196726"/>
+  <nd ref="4827827130"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Alemanha"/>
+ </way>
+ <way id="317979295" visible="true" version="5" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6907853580"/>
+  <nd ref="6907713068"/>
+  <nd ref="6907713067"/>
+  <nd ref="3243197518"/>
+  <nd ref="6907713066"/>
+  <nd ref="3243197356"/>
+  <nd ref="6907713065"/>
+  <nd ref="3243197271"/>
+  <nd ref="6907713064"/>
+  <nd ref="3243197007"/>
+  <nd ref="3243196754"/>
+  <nd ref="6865915816"/>
+  <nd ref="6865915817"/>
+  <nd ref="6865915818"/>
+  <nd ref="6865915819"/>
+  <nd ref="3243196723"/>
+  <nd ref="3243196708"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Severino Pedro Alves"/>
+ </way>
+ <way id="317979297" visible="true" version="3" changeset="76078433" timestamp="2019-10-23T04:49:41Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197692"/>
+  <nd ref="6907713063"/>
+  <nd ref="3243197512"/>
+  <nd ref="6907713062"/>
+  <nd ref="3243197346"/>
+  <nd ref="6907713061"/>
+  <nd ref="3243197262"/>
+  <nd ref="6907713060"/>
+  <nd ref="3243197003"/>
+  <nd ref="3243196967"/>
+  <nd ref="3243196748"/>
+  <nd ref="3243196713"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Nair Souza Morais"/>
+ </way>
+ <way id="317979301" visible="true" version="4" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6928948951"/>
+  <nd ref="6928941974"/>
+  <nd ref="6928936488"/>
+  <nd ref="6928941973"/>
+  <nd ref="3243197488"/>
+  <nd ref="6928941972"/>
+  <nd ref="3243197318"/>
+  <nd ref="6928941971"/>
+  <nd ref="3243197040"/>
+  <nd ref="6928941970"/>
+  <nd ref="3243196984"/>
+  <nd ref="6928941969"/>
+  <nd ref="3243196729"/>
+  <nd ref="6928941968"/>
+  <nd ref="3243196453"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Portugal"/>
+ </way>
+ <way id="317979309" visible="true" version="3" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197725"/>
+  <nd ref="6928941957"/>
+  <nd ref="3243197551"/>
+  <nd ref="6928941956"/>
+  <nd ref="3243197480"/>
+  <nd ref="6928941955"/>
+  <nd ref="3243197311"/>
+  <nd ref="6928941954"/>
+  <nd ref="3243197032"/>
+  <nd ref="6928941953"/>
+  <nd ref="3243196977"/>
+  <nd ref="3243196721"/>
+  <nd ref="3243196665"/>
+  <nd ref="3243196417"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Doutor Marcos Freire"/>
+ </way>
+ <way id="317979310" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197864"/>
+  <nd ref="6929260576"/>
+  <nd ref="3243197861"/>
+  <nd ref="6929260575"/>
+  <nd ref="3243197758"/>
+  <nd ref="6929260574"/>
+  <nd ref="2518107957"/>
+  <nd ref="6929260573"/>
+  <nd ref="3243197750"/>
+  <nd ref="6929260572"/>
+  <nd ref="3243197747"/>
+  <nd ref="6929260571"/>
+  <nd ref="6929260570"/>
+  <nd ref="3243197740"/>
+  <nd ref="3243197739"/>
+  <nd ref="3243197733"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Almeda Curuçá"/>
+ </way>
+ <way id="317979311" visible="true" version="6" changeset="76370551" timestamp="2019-10-30T01:18:48Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197760"/>
+  <nd ref="3243197759"/>
+  <nd ref="6928948961"/>
+  <nd ref="3243197756"/>
+  <nd ref="6928948960"/>
+  <nd ref="3243197755"/>
+  <nd ref="6928948959"/>
+  <nd ref="3243197753"/>
+  <nd ref="4827827099"/>
+  <nd ref="3243197752"/>
+  <nd ref="6928948958"/>
+  <nd ref="3243197751"/>
+  <nd ref="6928948957"/>
+  <nd ref="3243197748"/>
+  <nd ref="6928948956"/>
+  <nd ref="6928948955"/>
+  <nd ref="6928948954"/>
+  <nd ref="6928948953"/>
+  <nd ref="6418672790"/>
+  <nd ref="6928948952"/>
+  <nd ref="6928948951"/>
+  <nd ref="6928948950"/>
+  <nd ref="3243197728"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua Ceará"/>
+ </way>
+ <way id="372608396" visible="true" version="2" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3761628973"/>
+  <nd ref="6929260578"/>
+  <nd ref="6929260577"/>
+  <nd ref="3761628974"/>
+  <tag k="highway" v="service"/>
+  <tag k="service" v="alley"/>
+ </way>
+ <way id="372608397" visible="true" version="2" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3761628975"/>
+  <nd ref="6901416576"/>
+  <nd ref="3761628976"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="372608398" visible="true" version="3" changeset="63876010" timestamp="2018-10-25T17:29:03Z" user="Angelo Batalha" uid="8540443">
+  <nd ref="3761628977"/>
+  <nd ref="4827827123"/>
+  <nd ref="4827827124"/>
+  <nd ref="3761628982"/>
+  <nd ref="3761628979"/>
+  <nd ref="3761628978"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa São João"/>
+ </way>
+ <way id="490597529" visible="true" version="1" changeset="48293023" timestamp="2017-04-30T21:23:18Z" user="patodiez" uid="1856060">
+  <nd ref="4827827099"/>
+  <nd ref="4827827100"/>
+  <tag k="highway" v="residential"/>
+ </way>
+ <way id="490597530" visible="true" version="1" changeset="48293023" timestamp="2017-04-30T21:23:18Z" user="patodiez" uid="1856060">
+  <nd ref="4827827101"/>
+  <nd ref="4827827102"/>
+  <tag k="highway" v="residential"/>
+  <tag k="surface" v="unpaved"/>
+ </way>
+ <way id="490597531" visible="true" version="2" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="4827827103"/>
+  <nd ref="6929447842"/>
+  <nd ref="4827827104"/>
+  <nd ref="4827827105"/>
+  <nd ref="6929447843"/>
+  <nd ref="4827827106"/>
+  <nd ref="4827827108"/>
+  <nd ref="4827827107"/>
+  <tag k="highway" v="living_street"/>
+ </way>
+ <way id="490597532" visible="true" version="2" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="4827827108"/>
+  <nd ref="6929447847"/>
+  <nd ref="4827827109"/>
+  <nd ref="6929447846"/>
+  <nd ref="6929447845"/>
+  <nd ref="6929447844"/>
+  <nd ref="4827827110"/>
+  <tag k="highway" v="living_street"/>
+ </way>
+ <way id="490597533" visible="true" version="1" changeset="48293023" timestamp="2017-04-30T21:23:19Z" user="patodiez" uid="1856060">
+  <nd ref="4827827115"/>
+  <nd ref="4827827116"/>
+  <tag k="highway" v="living_street"/>
+ </way>
+ <way id="490597534" visible="true" version="3" changeset="75969442" timestamp="2019-10-21T02:21:01Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="4827827118"/>
+  <nd ref="6901416575"/>
+  <nd ref="4827827119"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alameda Centenário da Abolição"/>
+ </way>
+ <way id="490597535" visible="true" version="4" changeset="79945150" timestamp="2020-01-23T02:30:17Z" user="The_Intern" uid="10140141">
+  <nd ref="6901566104"/>
+  <nd ref="4827827122"/>
+  <nd ref="6901566105"/>
+  <nd ref="6901566106"/>
+  <nd ref="4827827126"/>
+  <nd ref="6901566107"/>
+  <nd ref="6901566108"/>
+  <nd ref="6901566109"/>
+  <nd ref="6901566110"/>
+  <nd ref="4827827123"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Nossa Senhora de Nazaré"/>
+ </way>
+ <way id="490597537" visible="true" version="4" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="4827827127"/>
+  <nd ref="6901851018"/>
+  <nd ref="6901851017"/>
+  <nd ref="6901851016"/>
+  <nd ref="4827827128"/>
+  <nd ref="6901851015"/>
+  <nd ref="6901416578"/>
+  <nd ref="6901851014"/>
+  <nd ref="4827827129"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Edmundo Freitas"/>
+ </way>
+ <way id="490686051" visible="true" version="5" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243196756"/>
+  <nd ref="3243196754"/>
+  <nd ref="3243196751"/>
+  <nd ref="3243196749"/>
+  <nd ref="3243196748"/>
+  <nd ref="6901510882"/>
+  <nd ref="3243196743"/>
+  <nd ref="3243196742"/>
+  <nd ref="3243196739"/>
+  <nd ref="3243196736"/>
+  <nd ref="3243196735"/>
+  <nd ref="3243196733"/>
+  <nd ref="3243196732"/>
+  <nd ref="3243196731"/>
+  <nd ref="3243196730"/>
+  <nd ref="6901510881"/>
+  <nd ref="3243196729"/>
+  <nd ref="6901510880"/>
+  <nd ref="3243196726"/>
+  <nd ref="3243196722"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Almeda Pedro Melo"/>
+ </way>
+ <way id="492020853" visible="true" version="6" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6907869400"/>
+  <nd ref="6907853569"/>
+  <nd ref="6907853570"/>
+  <nd ref="4827827112"/>
+  <nd ref="6907853568"/>
+  <nd ref="6907853567"/>
+  <nd ref="6907853566"/>
+  <nd ref="6907853565"/>
+  <nd ref="6907689277"/>
+  <nd ref="6907853564"/>
+  <nd ref="3243197539"/>
+  <nd ref="3243197521"/>
+  <nd ref="6907853563"/>
+  <nd ref="3243197485"/>
+  <nd ref="3243197357"/>
+  <nd ref="3243197323"/>
+  <nd ref="3243197284"/>
+  <nd ref="3243197276"/>
+  <nd ref="3243197036"/>
+  <nd ref="3243197011"/>
+  <nd ref="3243197010"/>
+  <nd ref="3243196973"/>
+  <nd ref="3243196756"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Rua Major Wilson"/>
+  <tag k="source" v="IBGE"/>
+ </way>
+ <way id="492020858" visible="true" version="3" changeset="48582732" timestamp="2017-05-11T07:16:36Z" user="M Aviz" uid="5781101">
+  <nd ref="2518107986"/>
+  <nd ref="3243198061"/>
+  <nd ref="3243197934"/>
+  <nd ref="3243197912"/>
+  <nd ref="3243197879"/>
+  <nd ref="2518107957"/>
+  <nd ref="3243197715"/>
+  <nd ref="3243197675"/>
+  <nd ref="3243197535"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Quintino Bocaiúva"/>
+ </way>
+ <way id="492020860" visible="true" version="4" changeset="52996136" timestamp="2017-10-16T21:26:07Z" user="erickdeoliveiraleal" uid="463504">
+  <nd ref="3243198097"/>
+  <nd ref="2519069096"/>
+  <nd ref="3243197941"/>
+  <nd ref="2519069091"/>
+  <nd ref="3243197917"/>
+  <nd ref="3243197887"/>
+  <nd ref="2519069082"/>
+  <nd ref="3243197861"/>
+  <nd ref="3761628974"/>
+  <nd ref="2519069103"/>
+  <nd ref="3243197683"/>
+  <nd ref="3243197542"/>
+  <nd ref="2519069099"/>
+  <nd ref="3243197345"/>
+  <nd ref="3243197283"/>
+  <nd ref="2519069100"/>
+  <nd ref="3243197027"/>
+  <nd ref="2519069093"/>
+  <nd ref="4827827117"/>
+  <nd ref="4827827127"/>
+  <nd ref="2519069092"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Travessa Floriano Peixoto"/>
+ </way>
+ <way id="492024062" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="2518606901"/>
+  <nd ref="3243197688"/>
+  <nd ref="3243197721"/>
+  <nd ref="3761628973"/>
+  <nd ref="3243197864"/>
+  <nd ref="2518606896"/>
+  <nd ref="4827827087"/>
+  <nd ref="3243197919"/>
+  <nd ref="6929260556"/>
+  <nd ref="3243198070"/>
+  <nd ref="6929260540"/>
+  <nd ref="3243198125"/>
+  <nd ref="6929260530"/>
+  <nd ref="2518606905"/>
+  <nd ref="2518606914"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Travessa Primeiro de Maio"/>
+ </way>
+ <way id="492024063" visible="true" version="7" changeset="76370311" timestamp="2019-10-30T01:06:04Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="2518606901"/>
+  <nd ref="3243197548"/>
+  <nd ref="3243197551"/>
+  <nd ref="6928911184"/>
+  <nd ref="3243197554"/>
+  <nd ref="6928936485"/>
+  <nd ref="6928936486"/>
+  <nd ref="6928936487"/>
+  <nd ref="6928936488"/>
+  <nd ref="3243197663"/>
+  <nd ref="6418672791"/>
+  <nd ref="6928936489"/>
+  <nd ref="4827827103"/>
+  <nd ref="3243197668"/>
+  <nd ref="6928936490"/>
+  <nd ref="3243197670"/>
+  <nd ref="6928936491"/>
+  <nd ref="3243197672"/>
+  <nd ref="6928936492"/>
+  <nd ref="3243197676"/>
+  <nd ref="6928936493"/>
+  <nd ref="3243197680"/>
+  <nd ref="6928936494"/>
+  <nd ref="3243197685"/>
+  <nd ref="6928936495"/>
+  <nd ref="3243197687"/>
+  <nd ref="3243197689"/>
+  <nd ref="3243197690"/>
+  <nd ref="3243197692"/>
+  <nd ref="3243197693"/>
+  <nd ref="3243197694"/>
+  <nd ref="3243197695"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Rua Kazumo Oyama"/>
+ </way>
+ <way id="492024064" visible="true" version="5" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6929264891"/>
+  <nd ref="3243197679"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Travessa Cônego Luiz Leitão"/>
+ </way>
+ <way id="492024065" visible="true" version="4" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6929264891"/>
+  <nd ref="6929264892"/>
+  <nd ref="3243197540"/>
+  <nd ref="6929264893"/>
+  <nd ref="3243197542"/>
+  <nd ref="6929264894"/>
+  <nd ref="3243197545"/>
+  <nd ref="6929264895"/>
+  <nd ref="6929264896"/>
+  <nd ref="2518606901"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Rua Kazumo Oyama"/>
+ </way>
+ <way id="492024066" visible="true" version="3" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197535"/>
+  <nd ref="3243197484"/>
+  <nd ref="4844881134"/>
+  <nd ref="4844881133"/>
+  <nd ref="2518107963"/>
+  <nd ref="3243197020"/>
+  <nd ref="3243196752"/>
+  <nd ref="4827827129"/>
+  <nd ref="6901566102"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa Quintino Bocaiúva"/>
+ </way>
+ <way id="492024067" visible="true" version="4" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197535"/>
+  <nd ref="6929264891"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Rua Kazumo Oyama"/>
+ </way>
+ <way id="492024070" visible="true" version="6" changeset="75983207" timestamp="2019-10-21T08:46:15Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243196722"/>
+  <nd ref="6901851032"/>
+  <nd ref="3243196666"/>
+  <nd ref="6901510884"/>
+  <nd ref="3243196419"/>
+  <nd ref="3243196410"/>
+  <nd ref="6902104887"/>
+  <nd ref="4827832959"/>
+  <nd ref="3243196374"/>
+  <nd ref="6902104886"/>
+  <nd ref="3243196152"/>
+  <nd ref="6902104885"/>
+  <nd ref="3243196123"/>
+  <nd ref="6902076084"/>
+  <nd ref="3243196100"/>
+  <nd ref="6902076083"/>
+  <nd ref="3243196064"/>
+  <nd ref="3243195657"/>
+  <nd ref="3243195650"/>
+  <nd ref="3243195644"/>
+  <nd ref="3243195642"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Travessa Sessenta e Sete"/>
+ </way>
+ <way id="492024071" visible="true" version="4" changeset="52996136" timestamp="2017-10-16T21:26:09Z" user="erickdeoliveiraleal" uid="463504">
+  <nd ref="3243196722"/>
+  <nd ref="3243196721"/>
+  <nd ref="3243196719"/>
+  <nd ref="4041714585"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Almeda Pedro Melo"/>
+ </way>
+ <way id="492461599" visible="true" version="4" changeset="75976594" timestamp="2019-10-21T06:49:16Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="2519069092"/>
+  <nd ref="3243196458"/>
+  <nd ref="2519069083"/>
+  <nd ref="4827832956"/>
+  <nd ref="3243196154"/>
+  <nd ref="2519069101"/>
+  <nd ref="6901851030"/>
+  <nd ref="3761628983"/>
+  <nd ref="2519069085"/>
+  <nd ref="5211546900"/>
+  <nd ref="2519069088"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Travessa Floriano Peixoto"/>
+ </way>
+ <way id="492461600" visible="true" version="2" changeset="75971509" timestamp="2019-10-21T03:51:56Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="2519069092"/>
+  <nd ref="3761628977"/>
+  <nd ref="3243196716"/>
+  <tag k="highway" v="path"/>
+  <tag k="name" v="Almeda Pedro Melo"/>
+ </way>
+ <way id="492464901" visible="true" version="6" changeset="76080351" timestamp="2019-10-23T05:51:42Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="2519085447"/>
+  <nd ref="3243198260"/>
+  <nd ref="3243198256"/>
+  <nd ref="4828690756"/>
+  <nd ref="3243198230"/>
+  <nd ref="3243198214"/>
+  <nd ref="6904633283"/>
+  <nd ref="6904633282"/>
+  <nd ref="2519251217"/>
+  <nd ref="3761645560"/>
+  <nd ref="2519251264"/>
+  <nd ref="6904633281"/>
+  <nd ref="6904633280"/>
+  <nd ref="3243197743"/>
+  <nd ref="2519251216"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Rua Major Wilson"/>
+  <tag k="source" v="IBGE"/>
+ </way>
+ <way id="492466518" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:04Z" user="M Aviz" uid="5781101">
+  <nd ref="3243196075"/>
+  <nd ref="3243196066"/>
+  <nd ref="3243196095"/>
+  <nd ref="3243196119"/>
+  <nd ref="2519069101"/>
+  <nd ref="3243196154"/>
+  <nd ref="3243196153"/>
+  <nd ref="3243196411"/>
+  <nd ref="4844881130"/>
+  <nd ref="4844881131"/>
+  <nd ref="4844881132"/>
+  <nd ref="2518107929"/>
+  <nd ref="2518107963"/>
+  <nd ref="3243197278"/>
+  <nd ref="3243197309"/>
+  <nd ref="4844881133"/>
+  <nd ref="4844881134"/>
+  <nd ref="2517873862"/>
+  <nd ref="4844881136"/>
+  <nd ref="4844881135"/>
+  <nd ref="4844881137"/>
+  <nd ref="4844881138"/>
+  <nd ref="4844881139"/>
+  <nd ref="3243196075"/>
+  <tag k="landuse" v="residential"/>
+ </way>
+ <way id="492466522" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:04Z" user="M Aviz" uid="5781101">
+  <nd ref="4844881137"/>
+  <nd ref="3243196746"/>
+  <nd ref="3243196715"/>
+  <nd ref="3243196710"/>
+  <nd ref="4827827113"/>
+  <nd ref="3243197701"/>
+  <nd ref="4844881135"/>
+  <nd ref="4844881137"/>
+  <tag k="landuse" v="residential"/>
+ </way>
+ <way id="492466524" visible="true" version="1" changeset="48548757" timestamp="2017-05-10T02:58:04Z" user="M Aviz" uid="5781101">
+  <nd ref="3243197558"/>
+  <nd ref="3243197742"/>
+  <nd ref="3243197726"/>
+  <nd ref="4844881144"/>
+  <nd ref="4844881145"/>
+  <nd ref="4844881146"/>
+  <nd ref="3243197944"/>
+  <nd ref="3243198100"/>
+  <nd ref="3243198068"/>
+  <nd ref="3243198067"/>
+  <nd ref="3243197939"/>
+  <nd ref="3243197909"/>
+  <nd ref="3243197882"/>
+  <nd ref="3243197863"/>
+  <nd ref="4844881147"/>
+  <nd ref="2846258813"/>
+  <nd ref="4844881148"/>
+  <nd ref="3243197520"/>
+  <nd ref="3243197538"/>
+  <nd ref="3243197533"/>
+  <nd ref="3243197535"/>
+  <nd ref="4844881134"/>
+  <nd ref="2517873862"/>
+  <nd ref="4844881136"/>
+  <nd ref="3243197558"/>
+  <tag k="landuse" v="residential"/>
+ </way>
+ <way id="492467360" visible="true" version="1" changeset="48548874" timestamp="2017-05-10T03:08:36Z" user="M Aviz" uid="5781101">
+  <nd ref="3243806225"/>
+  <nd ref="4828690760"/>
+  <nd ref="3243197891"/>
+  <nd ref="3243197907"/>
+  <nd ref="3243197952"/>
+  <nd ref="3243197746"/>
+  <nd ref="4844888356"/>
+  <nd ref="3243197665"/>
+  <nd ref="3243197699"/>
+  <nd ref="3243197703"/>
+  <nd ref="3243806225"/>
+  <tag k="landuse" v="residential"/>
+ </way>
+ <way id="492467363" visible="true" version="1" changeset="48548874" timestamp="2017-05-10T03:08:36Z" user="M Aviz" uid="5781101">
+  <nd ref="4844888373"/>
+  <nd ref="4844881131"/>
+  <nd ref="4844881132"/>
+  <nd ref="2518107929"/>
+  <nd ref="4844881134"/>
+  <nd ref="4844888374"/>
+  <nd ref="4844888375"/>
+  <nd ref="3243197533"/>
+  <nd ref="3243197507"/>
+  <nd ref="747644436"/>
+  <nd ref="3243197321"/>
+  <nd ref="3243197286"/>
+  <nd ref="3243197023"/>
+  <nd ref="747644268"/>
+  <nd ref="3243196737"/>
+  <nd ref="3243196685"/>
+  <nd ref="4844888373"/>
+  <tag k="landuse" v="industrial"/>
+ </way>
+ <way id="492467364" visible="true" version="1" changeset="48548874" timestamp="2017-05-10T03:08:36Z" user="M Aviz" uid="5781101">
+  <nd ref="4844888374"/>
+  <nd ref="4844881134"/>
+  <nd ref="3243197535"/>
+  <nd ref="4844888375"/>
+  <nd ref="4844888374"/>
+  <tag k="landuse" v="residential"/>
+ </way>
+ <way id="492711932" visible="true" version="4" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6907869400"/>
+  <nd ref="2971754126"/>
+  <nd ref="6907869396"/>
+  <nd ref="4827827111"/>
+  <nd ref="2519251216"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Rua Major Wilson"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="source" v="IBGE"/>
+ </way>
+ <way id="492711933" visible="true" version="3" changeset="76082767" timestamp="2019-10-23T06:48:06Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6907869390"/>
+  <nd ref="6907869397"/>
+  <nd ref="6907869398"/>
+  <nd ref="6907853580"/>
+  <nd ref="6907869399"/>
+  <nd ref="6907869400"/>
+  <tag k="highway" v="secondary"/>
+  <tag k="name" v="Rua Kazumo Oyama"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="492711936" visible="true" version="3" changeset="75539536" timestamp="2019-10-11T02:16:14Z" user="SarekPark" uid="10278878">
+  <nd ref="6868716390"/>
+  <nd ref="6868632411"/>
+  <nd ref="3243196706"/>
+  <nd ref="3243196708"/>
+  <nd ref="3243196709"/>
+  <nd ref="3243196712"/>
+  <nd ref="3243196713"/>
+  <nd ref="3243196715"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Rua A"/>
+  <tag k="oneway" v="no"/>
+ </way>
+ <way id="492711938" visible="true" version="2" changeset="52996136" timestamp="2017-10-16T21:26:10Z" user="erickdeoliveiraleal" uid="463504">
+  <nd ref="4041714585"/>
+  <nd ref="2518606921"/>
+  <nd ref="2518606888"/>
+  <nd ref="3243197288"/>
+  <nd ref="2518606904"/>
+  <nd ref="3243197352"/>
+  <nd ref="3243197473"/>
+  <nd ref="3243197504"/>
+  <nd ref="2518606901"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Travessa Primeiro de Maio"/>
+ </way>
+ <way id="492711939" visible="true" version="2" changeset="52996136" timestamp="2017-10-16T21:26:10Z" user="erickdeoliveiraleal" uid="463504">
+  <nd ref="4041714585"/>
+  <nd ref="3243196717"/>
+  <nd ref="2519069092"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Almeda Pedro Melo"/>
+ </way>
+ <way id="492711940" visible="true" version="3" changeset="76373758" timestamp="2019-10-30T04:11:00Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="747644303"/>
+  <nd ref="6929264886"/>
+  <nd ref="3243197673"/>
+  <nd ref="6929264887"/>
+  <nd ref="3243197675"/>
+  <nd ref="6929264888"/>
+  <nd ref="3243197679"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Alameda Imperial"/>
+ </way>
+ <way id="492711943" visible="true" version="2" changeset="48603721" timestamp="2017-05-11T20:17:25Z" user="M Aviz" uid="5781101">
+  <nd ref="3243197679"/>
+  <nd ref="3243197716"/>
+  <nd ref="3243197758"/>
+  <nd ref="3243197884"/>
+  <nd ref="3243197916"/>
+  <nd ref="3243197936"/>
+  <nd ref="3243198065"/>
+  <nd ref="3243198093"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Travessa Cônego Luiz Leitão"/>
+ </way>
+ <way id="492711944" visible="true" version="3" changeset="76376595" timestamp="2019-10-30T06:11:10Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197679"/>
+  <nd ref="6929264889"/>
+  <nd ref="3243197683"/>
+  <nd ref="6929264890"/>
+  <nd ref="3243197688"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Alameda Imperial"/>
+ </way>
+ <way id="678416307" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245">
+  <nd ref="6352352187"/>
+  <nd ref="6352352188"/>
+  <nd ref="6352352189"/>
+  <nd ref="6352352190"/>
+  <nd ref="6352352187"/>
+  <tag k="leisure" v="pitch"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Rala Bucho"/>
+  <tag k="sport" v="futsal;soccer;football;futebol"/>
+  <tag k="surface" v="grass"/>
+ </way>
+ <way id="678416309" visible="true" version="2" changeset="68538952" timestamp="2019-03-26T09:40:28Z" user="Vera  Kozlova" uid="6907756">
+  <nd ref="6352352193"/>
+  <nd ref="6352352194"/>
+  <nd ref="6352352195"/>
+  <nd ref="6352352196"/>
+  <nd ref="6352352193"/>
+  <tag k="amenity" v="place_of_worship"/>
+  <tag k="name" v="Convento das Irmãs Sagrado Coração de Jesus"/>
+ </way>
+ <way id="678416311" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:53Z" user="Ivonilson" uid="9552245">
+  <nd ref="6352352198"/>
+  <nd ref="6352352199"/>
+  <nd ref="6352352200"/>
+  <nd ref="6352352201"/>
+  <nd ref="6352352198"/>
+  <tag k="name" v="Terreno Baldio"/>
+  <tag k="place" v="plot"/>
+ </way>
+ <way id="678416313" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:54Z" user="Ivonilson" uid="9552245">
+  <nd ref="6352352202"/>
+  <nd ref="6352352203"/>
+  <nd ref="6352352204"/>
+  <nd ref="6352352205"/>
+  <nd ref="6352352202"/>
+  <tag k="addr:city" v="Castanhal"/>
+  <tag k="addr:street" v="Travessa Cônego Luiz Leitão"/>
+  <tag k="addr:suburb" v="Novo Estrela"/>
+  <tag k="building" v="house"/>
+ </way>
+ <way id="678416314" visible="true" version="1" changeset="68375133" timestamp="2019-03-21T14:12:54Z" user="Ivonilson" uid="9552245">
+  <nd ref="6352352206"/>
+  <nd ref="6352352207"/>
+  <nd ref="6352352208"/>
+  <nd ref="6352352209"/>
+  <nd ref="6352352206"/>
+  <tag k="addr:city" v="Castanhal"/>
+  <tag k="addr:street" v="Travessa Cônego Luiz Leitão"/>
+  <tag k="addr:suburb" v="Novo Estrela"/>
+  <tag k="amenity" v="school"/>
+  <tag k="name" v="Colégio Sagrado Coração de Jesus"/>
+ </way>
+ <way id="685025604" visible="true" version="1" changeset="69414883" timestamp="2019-04-21T02:02:50Z" user="erickdeoliveiraleal" uid="463504">
+  <nd ref="6418672791"/>
+  <nd ref="6418672790"/>
+  <tag k="highway" v="track"/>
+ </way>
+ <way id="737181734" visible="true" version="1" changeset="75970545" timestamp="2019-10-21T03:17:16Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243196456"/>
+  <nd ref="6901510881"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa França"/>
+ </way>
+ <way id="737781211" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6907869396"/>
+  <nd ref="6907869389"/>
+  <nd ref="6907869388"/>
+  <nd ref="6907869387"/>
+  <nd ref="6907869392"/>
+  <nd ref="6907869393"/>
+  <nd ref="3243197695"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Rua Kazumo Oyama"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="737781212" visible="true" version="1" changeset="76081572" timestamp="2019-10-23T06:24:27Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="3243197695"/>
+  <nd ref="6907853571"/>
+  <nd ref="6907869394"/>
+  <nd ref="6907869390"/>
+  <nd ref="6907853583"/>
+  <nd ref="6907853584"/>
+  <nd ref="6907869385"/>
+  <nd ref="6907869386"/>
+  <nd ref="2971754126"/>
+  <tag k="highway" v="tertiary"/>
+  <tag k="name" v="Rua Kazumo Oyama"/>
+  <tag k="oneway" v="yes"/>
+ </way>
+ <way id="737787979" visible="true" version="1" changeset="76083390" timestamp="2019-10-23T06:57:32Z" user="PlazaBaquedano" uid="9225258">
+  <nd ref="6907930878"/>
+  <nd ref="6907930877"/>
+  <nd ref="3243197760"/>
+  <nd ref="3243197731"/>
+  <nd ref="3243197690"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Alameda Cravo"/>
+ </way>
+ <way id="765862496" visible="true" version="1" changeset="79945128" timestamp="2020-01-23T02:29:36Z" user="The_Intern" uid="10140141">
+  <nd ref="3761628981"/>
+  <nd ref="4827827125"/>
+  <nd ref="4827827120"/>
+  <nd ref="6901566103"/>
+  <nd ref="4827827121"/>
+  <nd ref="6901566104"/>
+  <tag k="highway" v="residential"/>
+  <tag k="name" v="Travessa São Francisco"/>
+ </way>
+</osm>

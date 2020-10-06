@@ -1,0 +1,5 @@
+<routes>
+	<vType accel="2.3" decel = "4.0" id="Car" length="2.5" maxSpeed = "2.2" carFollowModel="KraussPS" vClass="truck" emissionClass="HBEFA3/HDV" />
+	<!--<route id="route0" edges="001002 002003 003004 004005 005006 006007 007008 008009 009010 010011 011012 012013 013014 014015 015016 016041" />
+	<vehicle depart="1" id="veh0" route="route0" type="Car" />-->
+</routes>
