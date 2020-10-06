@@ -1,5 +1,0 @@
-<routes>
-	<vType accel="2.3" decel = "4.0" id="Car" length="2.5" maxSpeed = "2.2" carFollowModel="KraussPS" vClass="truck" emissionClass="HBEFA3/HDV" />
-	<!--<route id="route0" edges="7to6 6to5 5to4 4to3 3to2 2to1 1to30 30to29 29to28 28to27 27to26" />
-	<vehicle depart="1" id="veh0" route="route0" type="Car" /> -->
-</routes>
