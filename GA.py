@@ -14,34 +14,30 @@ import mainSumo
 
 class GA:   
 
-    def __init__(self, csvFile, nodes, edges,inicio, destino, X, Y, Z):
+    def __init__(self, csvFile, nodes, edges,inicio, destino, nIndividuals, limitGen, MapObject, code):
         self.csv = csvFile
         self.matrix = []
-        self.n_individuals = 7
+        self.n_individuals = nIndividuals#7
         self.population = []
         self.fitness = []
         self.nodes = nodes
         self.edges = edges
         self.edgesV = {} #edges vizinhas
-        self.limit = 20 # generation limit
+        self.limit = limitGen #20 # generation limit
         self.criterion = False
         self.bestFitness = 0
         self.fitnessDesired = 10000
         self.inicio = inicio
         self.destino = destino        
-        self.map = Map.Map('SUMO/map') # net file
+        self.map = MapObject #Map.Map('SUMO/map')
         self.map.run()
-        self.X = X
-        self.Y = Y
-        self.Z = Z
-        self.totalFit = []
-        self.totalPop = []
+        self.code = code         
         self.bfs = bfs.Graph()
         self.dfs = dfs.DFS()
 
     def setInitialPop(self):
         for i in range(0,self.n_individuals):
-            #individual = self.h_bfs(self.inicio,self.destino)
+            #individual = self.h_astar(self.inicio,self.destino)
             individual = self.h_dfs(self.inicio,self.destino)
             self.population.append(individual) 
     
@@ -54,7 +50,7 @@ class GA:
         return rota
 
     def h_astar(self,inicio,objetivo):        
-        rota = astar.main(self.edgesV,self.nodes,inicio,objetivo)
+        rota = astar.main(self.edgesV,self.nodes,inicio,objetivo, self.map)
         return rota
 
     def setMatrix(self):
@@ -70,11 +66,10 @@ class GA:
 
     def cfitness(self,vectorIndividual):        
         edgesIndividual = self.map.getListEdges(vectorIndividual)        
-        consumption = mainSumo.main(edgesIndividual,'GA')
+        consumption = mainSumo.main(edgesIndividual,'GA', self.code)
         return consumption      
 
     def setFitnessPopulation(self,population):
-        # population fitness (vector)
         len_pop = len(population)   
         fitness = []
         sum1 = 0
@@ -84,7 +79,6 @@ class GA:
             fitness.append(aptitude)    
                 
         return fitness
-        
 
     def getFitnessPopulation(self):
         return self.fitness
@@ -129,7 +123,7 @@ class GA:
                 var = fit[i]                        
                 index = i
         
-        self.bestFitness = fit[index]
+        self.bestFitness = float(fit[index])
         self.bestIndividual = population[index]
     
     def getBestIndividual(self):    
@@ -206,10 +200,10 @@ class GA:
             for i in range(1,len(individual)-1):            
                 if self.validateRoute(individual[i-1],individual[i+1]) == True: # testa se eh possivel remover algum noh
                     valid = i
-            if valid != 0: # se for possivel remover um noh
+            if valid != 0: # se for possivel remover um node
                 newIndividual = indiv1.remove(individual[valid])
                 return newIndividual
-        for i in range(0,len(individual)-2): # n faz sentido substituir o penultimo
+        for i in range(0,len(individual)-2): # não precisa substituir o penultimo
             possibilities = self.edgesV.get(individual[i])              
             if len(possibilities) > 1:
                 options.append(individual[i])
@@ -223,7 +217,8 @@ class GA:
             if indice1 > 0 and individual[indice1 - 1] in possibilities1: possibilities1.remove(individual[indice1 - 1])
             if len(possibilities1) > 0:
                 newPossib = random.choice(possibilities1)                
-                newPath = self.h_bfs(newPossib,self.destino)                
+                newPath = self.h_bfs(newPossib,self.destino)
+                #newPath = self.h_astar(newPossib,self.destino)
                 if newPath == "error":
                     return individual           
                 newIndividual = individual[0:indice1+1] + newPath                                
@@ -332,9 +327,11 @@ class GA:
         ##### se o individuo não vai até o destino
         if individual[-1] != self.destino:
             newPath = self.h_bfs(individual[-1],self.destino)
+            #newPath = self.h_astar(individual[-1],self.destino)
             if newPath == "error":
                 while alell > 0 and flag == False:
                     newPath = self.h_bfs(individual[alell],self.destino)
+                    #newPath = self.h_astar(individual[alell],self.destino)
                     if newPath != "error":
                         individual = individual[:alell] + newPath
                         flag = True
@@ -347,9 +344,11 @@ class GA:
         alell = 1
         if individual[0] != self.inicio :
             newPath = self.h_bfs(self.inicio,individual[0])
+            #newPath = self.h_astar(self.inicio,individual[0])
             if newPath == "error":
                 while alell < len(individual)-1 and flag == False:
                     newPath = self.h_bfs(self.inicio,individual[alell])
+                    #newPath = self.h_astar(self.inicio,individual[alell])
                     if newPath != "error":
                         individual = newPath + individual[alell:]
                         flag = True
@@ -358,7 +357,6 @@ class GA:
                 individual = newPath + individual
 
         ##### se tem dois genes que não estão conectados                
-        #for i in range(0,len(individual)-2):
         i = 0
         flag = False
         alell = 0   
@@ -368,23 +366,26 @@ class GA:
                 if len(possibilities) > 0:
                     chosen = random.choice(possibilities)
                     newPath = self.h_bfs(chosen,self.destino)
+                    #newPath = self.h_astar(chosen,self.destino)
                     if newPath == "error":                              
                         
                         while alell < i and flag == False:
                             newPath = self.h_bfs(individual[alell],individual[i+1])
+                            #newPath = self.h_astar(individual[alell],individual[i+1])
                             if newPath != "error":
                                 individual = individual[:alell] + newPath + individual[i+1:]
                                 flag = True
                             alell += 1
                         if flag == False:
                             individual = self.h_bfs(self.inicio,self.destino)
+                            #individual = self.h_astar(self.inicio,self.destino)
                     else:                           
                         individual = individual[:i+1] + newPath
                 else:
                     individual = self.h_bfs(self.inicio,self.destino)
+                    #individual = self.h_astar(self.inicio,self.destino)
 
             i += 1
-                
 
         ##### retirar genes repetidos
         repeated = self.setRepeated(individual)
@@ -399,7 +400,7 @@ class GA:
             individual = new
             repeated = self.setRepeated(individual)
 
-        # se tem repetido um do lado do outro
+        ##### se tem genes repetidos lado a lado
         n = 0
         while n < len(individual) - 1:          
             if individual[n] == individual[n+1]:
@@ -422,7 +423,6 @@ class GA:
     def nextGeneration(self):
 
         before = copy.deepcopy(self.population)     
-        self.totalPop.append(before)
         points = []
         generation = []             
 
@@ -441,7 +441,6 @@ class GA:
             child1,child2 = self.crossover(selected[a], selected[a+1])          
             generation.append(child1)
             generation.append(child2)
-        
         
         # best individual   
         bestIndiv = self.setBestIndividual(before)
@@ -468,7 +467,6 @@ class GA:
         while self.criterion != True:
             fitness = self.setFitnessPopulation(self.population)
             self.fitness = fitness
-            self.totalFit.append(fitness)                       
             self.nextGeneration()                               
             if gen == self.limit:
                 self.criterion = True               
@@ -476,5 +474,5 @@ class GA:
         print("initial pop", initial)
         print("Fitness last gen", self.fitness)
         print("The best route is:", self.getBestIndividual())
+        print("The best fitness is:", self.bestFitness)
         return self.getBestIndividual()
-        
